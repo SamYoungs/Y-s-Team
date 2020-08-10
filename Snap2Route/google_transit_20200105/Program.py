@@ -189,13 +189,21 @@ print("Median Longitude Deviation: " + "{:.15f}".format(medianLong_deviation) + 
 print("Minimum Latitude Deviation: " + "{:.15f}".format(minLat_deviation) + " Maximum Latitude Deviation: " + "{:.15f}".format(maxLat_deviation))
 print("Median Latitude Deviation: " + "{:.15f}".format(medianLat_deviation) + " Mean Latitude Deviation: " + "{:.15f}".format(meanLat_deviation))
 
-print("Point with the Smallest Deviation: " + "Latitude " + str(minpoint_deviation[0]) + ", " + "Longitude " + str(minpoint_deviation[1]))
-print("Minimum Deviated Latitude" + str(minpoint_deviation[2]) + "Minimum Deviated Longitude" + str(minpoint_deviation[1]))
+minpoint_orig_latitude = float(minpoint_deviation[0])
+minpoint_orig_longitude = float(minpoint_deviation[1])
+minpoint_deviation_latitude = float(minpoint_deviation[2])
+minpoint_deviation_longitude = float(minpoint_deviation[3])
+print("Point with the Smallest Deviation: " + "Original Latitude, Original Longitude " + "(" + "{:.15f}".format(minpoint_orig_latitude) + "," + "{:.15f}".format(minpoint_orig_longitude) + ")")
+print("Minimum Deviated Latitude " + "{:.15f}".format(minpoint_deviation_latitude) + "Minimum Deviated Longitude " + "{:.15f}".format(minpoint_deviation_longitude))
+print(minpoint_Timestamp)
 
-print("Point with the largest Deviation: " + "Original Latitude " + str(maxpoint_deviation[2]) + ", " + "Orignal Longitude " + str(maxpoint_deviation[3]))
-print("Minimum Deviated Latitude" + str(maxpoint_deviation[0]) + "Minimum Deviated Longitude" + str(maxpoint_deviation[1]))
-
-
+maxpoint_orig_latitude = float(maxpoint_deviation[0])
+maxpoint_orig_longitude = float(maxpoint_deviation[1])
+maxpoint_deviation_latitude = float(maxpoint_deviation[2])
+maxpoint_deviation_longitude = float(maxpoint_deviation[3])
+print("Point with the largest Deviation: " + "Original Latitude, Original Longitude " + "{:.15f}".format(maxpoint_orig_latitude)  + ", " + "{:.15f}".format(maxpoint_orig_longitude))
+print("Maximum Deviated Latitude " + "{:.15f}".format(maxpoint_deviation_latitude) + "Maximum Deviated Longitude " + "{:.15f}".format(maxpoint_deviation_longitude))
+print(maxpoint_Timestamp)
 
 
 
