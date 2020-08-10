@@ -1,0 +1,3053 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+2,Sun / Hol,863,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,882,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,883,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,864,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,865,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,884,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,885,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,866,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,867,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,886,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,887,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,868,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,869,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,888,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,889,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,870,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,871,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,890,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,891,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,872,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,873,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,892,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,893,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,874,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,875,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,894,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,895,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,876,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,877,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,896,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,897,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,878,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,879,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,898,FV to VA Transit Center,0,1,5,0,0
+2,Sun / Hol,899,Columbia House Blvd at P,0,1,6,0,0
+2,Sun / Hol,880,Grand To VA Transit Center,1,1,2,0,0
+2,Sun / Hol,881,Fruit Valley Rd & La Fra,1,1,3,0,0
+2,Sun / Hol,900,FV to VA Transit Center,0,1,5,0,0
+6,Sun / Hol,1388,99th Street TC,1,2,12,0,0
+5,Sun / Hol,1303,NE 29th Ave & WSUV Trail,1,2,9,0,0
+5,Sun / Hol,1295,99th Street TC,0,2,10,0,0
+6,Sun / Hol,1390,Mill Plain & Franklin [e,0,2,14,0,0
+6,Sun / Hol,1399,99th Street TC,1,2,11,0,0
+5,Sun / Hol,1305,NE 29th Ave & WSUV Trail,1,2,9,0,0
+5,Sun / Hol,1297,99th Street TC,0,2,10,0,0
+6,Sun / Hol,1392,Mill Plain & Franklin [e,0,2,14,0,0
+6,Sun / Hol,1401,99th Street TC,1,2,11,0,0
+5,Sun / Hol,1307,NE 29th Ave & WSUV Trail,1,2,9,0,0
+5,Sun / Hol,1299,99th Street TC,0,2,10,0,0
+6,Sun / Hol,1394,Mill Plain & Franklin [e,0,2,14,0,0
+6,Sun / Hol,1403,99th Street TC,1,2,11,0,0
+5,Sun / Hol,1309,NE 29th Ave & WSUV Trail,1,2,9,0,0
+5,Sun / Hol,1301,99th Street TC,0,2,10,0,0
+6,Sun / Hol,1396,Mill Plain & Franklin [e,0,2,14,0,0
+6,Sun / Hol,1405,99th Street TC,1,2,11,0,0
+6,Sun / Hol,1389,Mill Plain & Franklin [e,0,3,14,0,0
+6,Sun / Hol,1398,99th Street TC,1,3,11,0,0
+5,Sun / Hol,1304,NE 29th Ave & WSUV Trail,1,3,9,0,0
+5,Sun / Hol,1296,99th Street TC,0,3,10,0,0
+6,Sun / Hol,1391,Mill Plain & Franklin [e,0,3,14,0,0
+6,Sun / Hol,1400,99th Street TC,1,3,11,0,0
+5,Sun / Hol,1306,NE 29th Ave & WSUV Trail,1,3,9,0,0
+5,Sun / Hol,1298,99th Street TC,0,3,10,0,0
+6,Sun / Hol,1393,Mill Plain & Franklin [e,0,3,14,0,0
+6,Sun / Hol,1402,99th Street TC,1,3,11,0,0
+5,Sun / Hol,1308,NE 29th Ave & WSUV Trail,1,3,9,0,0
+5,Sun / Hol,1300,99th Street TC,0,3,10,0,0
+6,Sun / Hol,1395,Mill Plain & Franklin [e,0,3,14,0,0
+6,Sun / Hol,1404,99th Street TC,1,3,11,0,0
+5,Sun / Hol,1310,NE 29th Ave & WSUV Trail,1,3,9,0,0
+5,Sun / Hol,1302,99th Street TC,0,3,10,0,0
+6,Sun / Hol,1397,Mill Plain & Franklin [e,0,3,14,0,0
+6,Sun / Hol,1406,Evergreen Blvd & C St,1,3,13,0,0
+7,Sun / Hol,88,Fisher's Landing Transit,1,4,16,0,0
+7,Sun / Hol,67,Broadway & Evergreen Blv,0,4,18,0,0
+7,Sun / Hol,77,Fisher's Landing Transit,1,4,15,0,0
+7,Sun / Hol,69,Broadway & Evergreen Blv,0,4,18,0,0
+7,Sun / Hol,79,Fisher's Landing Transit,1,4,15,0,0
+7,Sun / Hol,71,Broadway & Evergreen Blv,0,4,18,0,0
+7,Sun / Hol,81,Fisher's Landing Transit,1,4,15,0,0
+7,Sun / Hol,73,Broadway & Evergreen Blv,0,4,18,0,0
+7,Sun / Hol,83,Fisher's Landing Transit,1,4,15,0,0
+7,Sun / Hol,75,Broadway & Evergreen Blv,0,4,18,0,0
+7,Sun / Hol,85,Fisher's Landing Transit,1,4,15,0,0
+7,Sun / Hol,87,Broadway & Evergreen Blv,0,5,19,0,0
+7,Sun / Hol,86,Fisher's Landing Transit,1,5,15,0,0
+7,Sun / Hol,68,Broadway & Evergreen Blv,0,5,18,0,0
+7,Sun / Hol,78,Fisher's Landing Transit,1,5,15,0,0
+7,Sun / Hol,70,Broadway & Evergreen Blv,0,5,18,0,0
+7,Sun / Hol,80,Fisher's Landing Transit,1,5,15,0,0
+7,Sun / Hol,72,Broadway & Evergreen Blv,0,5,18,0,0
+7,Sun / Hol,82,Fisher's Landing Transit,1,5,15,0,0
+7,Sun / Hol,74,Broadway & Evergreen Blv,0,5,18,0,0
+7,Sun / Hol,84,Fisher's Landing Transit,1,5,15,0,0
+7,Sun / Hol,76,Broadway & Evergreen Blv,0,5,18,0,0
+8,Sun / Hol,2737,Evergreen Blvd & C St,1,6,22,0,0
+9,Sun / Hol,276,Van Mall TC,1,6,23,0,0
+9,Sun / Hol,277,Evergreen/Andresen,0,6,24,0,0
+8,Sun / Hol,2727,99th Street TC,0,6,21,0,0
+8,Sun / Hol,2739,Evergreen Blvd & C St,1,6,22,0,0
+9,Sun / Hol,2748,Van Mall TC,1,6,23,0,0
+9,Sun / Hol,2757,Evergreen/Andresen,0,6,24,0,0
+8,Sun / Hol,2729,99th Street TC,0,6,21,0,0
+8,Sun / Hol,2741,Evergreen Blvd & C St,1,6,22,0,0
+9,Sun / Hol,2750,Van Mall TC,1,6,23,0,0
+9,Sun / Hol,2759,Evergreen/Andresen,0,6,24,0,0
+8,Sun / Hol,2731,99th Street TC,0,6,21,0,0
+8,Sun / Hol,2743,Evergreen Blvd & C St,1,6,22,0,0
+9,Sun / Hol,2752,Van Mall TC,1,6,23,0,0
+9,Sun / Hol,2761,Evergreen/Andresen,0,6,24,0,0
+8,Sun / Hol,2733,99th Street TC,0,6,21,0,0
+8,Sun / Hol,2745,Evergreen Blvd & C St,1,6,22,0,0
+9,Sun / Hol,2754,Van Mall TC,1,6,23,0,0
+9,Sun / Hol,2763,Evergreen/Andresen,0,6,24,0,0
+8,Sun / Hol,2735,99th Street TC,0,6,21,0,0
+8,Sun / Hol,2738,Evergreen Blvd & C St,1,7,22,0,0
+9,Sun / Hol,2747,Van Mall TC,1,7,23,0,0
+9,Sun / Hol,2756,Evergreen/Andresen,0,7,24,0,0
+8,Sun / Hol,2728,99th Street TC,0,7,21,0,0
+8,Sun / Hol,2740,Evergreen Blvd & C St,1,7,22,0,0
+9,Sun / Hol,2749,Van Mall TC,1,7,23,0,0
+9,Sun / Hol,2758,Evergreen/Andresen,0,7,24,0,0
+8,Sun / Hol,2730,99th Street TC,0,7,21,0,0
+8,Sun / Hol,2742,Evergreen Blvd & C St,1,7,22,0,0
+9,Sun / Hol,2751,Van Mall TC,1,7,23,0,0
+9,Sun / Hol,2760,Evergreen/Andresen,0,7,24,0,0
+8,Sun / Hol,2732,99th Street TC,0,7,21,0,0
+8,Sun / Hol,2744,Evergreen Blvd & C St,1,7,22,0,0
+9,Sun / Hol,2753,Van Mall TC,1,7,23,0,0
+9,Sun / Hol,2762,Evergreen/Andresen,0,7,24,0,0
+8,Sun / Hol,2734,99th Street TC,0,7,21,0,0
+8,Sun / Hol,2746,Evergreen Blvd & C St,1,7,22,0,0
+9,Sun / Hol,2755,Van Mall TC,1,7,23,0,0
+9,Sun / Hol,2764,Evergreen/Andresen,0,7,24,0,0
+8,Sun / Hol,2736,99th Street TC,0,7,21,0,0
+10,Sun / Hol,1560,Fisher's Landing Transit via 164,1,8,27,0,0
+10,Sun / Hol,1549,Evergreen Blvd & C St via 192,0,8,34,0,0
+10,Sun / Hol,1577,Fisher's Landing Transit via 192,1,8,30,0,0
+10,Sun / Hol,1536,Evergreen Blvd & C St via 164,0,8,33,0,0
+10,Sun / Hol,1563,Fisher's Landing Transit via 164,1,8,27,0,0
+10,Sun / Hol,1552,Evergreen Blvd & C St via 192,0,8,34,0,0
+10,Sun / Hol,1580,Fisher's Landing Transit via 192,1,8,30,0,0
+10,Sun / Hol,1539,Evergreen Blvd & C St via 164,0,8,33,0,0
+10,Sun / Hol,1566,Fisher's Landing Transit via 164,1,8,27,0,0
+10,Sun / Hol,1555,Evergreen Blvd & C St via 192,0,8,34,0,0
+10,Sun / Hol,1583,Fisher's Landing Transit via 192,1,8,30,0,0
+10,Sun / Hol,1542,Evergreen Blvd & C St via 164,0,8,33,0,0
+10,Sun / Hol,1569,Fisher's Landing Transit via 164,1,8,27,0,0
+10,Sun / Hol,1558,Evergreen Blvd & C St via 192,0,8,34,0,0
+10,Sun / Hol,1586,Fisher's Landing Transit via 192,1,8,30,0,0
+10,Sun / Hol,1545,Evergreen Blvd & C St via 164,0,8,33,0,0
+10,Sun / Hol,1572,Fisher's Landing Transit via 164,1,8,27,0,0
+10,Sun / Hol,1686,Evergreen Blvd & C St via 164,0,8,33,0,0
+10,Sun / Hol,1589,Fisher's Landing Transit via 164,1,8,27,0,0
+10,Sun / Hol,1548,Evergreen Blvd & C St via 164,0,8,33,0,0
+10,Sun / Hol,1575,Fisher's Landing Transit via 164,1,8,27,0,0
+10,Sun / Hol,1534,Evergreen Blvd & C St via 164,0,9,33,0,0
+10,Sun / Hol,1561,Fisher's Landing Transit via 164,1,9,27,0,0
+10,Sun / Hol,1550,Evergreen Blvd & C St via 192,0,9,34,0,0
+10,Sun / Hol,1578,Fisher's Landing Transit via 192,1,9,30,0,0
+10,Sun / Hol,1537,Evergreen Blvd & C St via 164,0,9,33,0,0
+10,Sun / Hol,1564,Fisher's Landing Transit via 164,1,9,27,0,0
+10,Sun / Hol,1553,Evergreen Blvd & C St via 192,0,9,34,0,0
+10,Sun / Hol,1581,Fisher's Landing Transit via 192,1,9,30,0,0
+10,Sun / Hol,1540,Evergreen Blvd & C St via 164,0,9,33,0,0
+10,Sun / Hol,1567,Fisher's Landing Transit via 164,1,9,27,0,0
+10,Sun / Hol,1556,Evergreen Blvd & C St via 192,0,9,34,0,0
+10,Sun / Hol,1584,Fisher's Landing Transit via 192,1,9,30,0,0
+10,Sun / Hol,1543,Evergreen Blvd & C St via 164,0,9,33,0,0
+10,Sun / Hol,1570,Fisher's Landing Transit via 164,1,9,27,0,0
+10,Sun / Hol,1559,Evergreen Blvd & C St via 192,0,9,34,0,0
+10,Sun / Hol,1587,Fisher's Landing Transit via 164,1,9,27,0,0
+10,Sun / Hol,1546,Evergreen Blvd & C St via 164,0,9,33,0,0
+10,Sun / Hol,1573,Fisher's Landing Transit via 164,1,9,27,0,0
+10,Sun / Hol,1687,Evergreen Blvd & C St via 164,0,9,33,0,0
+10,Sun / Hol,1590,Fisher's Landing Transit via 164,1,9,27,0,0
+10,Sun / Hol,1576,Fisher's Landing Transit via 192,1,10,30,0,0
+10,Sun / Hol,1535,Evergreen Blvd & C St via 164,0,10,33,0,0
+10,Sun / Hol,1562,Fisher's Landing Transit via 164,1,10,27,0,0
+10,Sun / Hol,1551,Evergreen Blvd & C St via 192,0,10,34,0,0
+10,Sun / Hol,1579,Fisher's Landing Transit via 192,1,10,30,0,0
+10,Sun / Hol,1538,Evergreen Blvd & C St via 164,0,10,33,0,0
+10,Sun / Hol,1565,Fisher's Landing Transit via 164,1,10,27,0,0
+10,Sun / Hol,1554,Evergreen Blvd & C St via 192,0,10,34,0,0
+10,Sun / Hol,1582,Fisher's Landing Transit via 192,1,10,30,0,0
+10,Sun / Hol,1541,Evergreen Blvd & C St via 164,0,10,33,0,0
+10,Sun / Hol,1568,Fisher's Landing Transit via 164,1,10,27,0,0
+10,Sun / Hol,1557,Evergreen Blvd & C St via 192,0,10,34,0,0
+10,Sun / Hol,1585,Fisher's Landing Transit via 192,1,10,30,0,0
+10,Sun / Hol,1544,Evergreen Blvd & C St via 164,0,10,33,0,0
+10,Sun / Hol,1571,Fisher's Landing Transit via 164,1,10,27,0,0
+10,Sun / Hol,1685,Evergreen Blvd & C St via 164,0,10,33,0,0
+10,Sun / Hol,1588,Fisher's Landing Transit via 164,1,10,27,0,0
+10,Sun / Hol,1547,Evergreen Blvd & C St via 164,0,10,33,0,0
+10,Sun / Hol,1574,Fisher's Landing Transit via 164,1,10,27,0,0
+13,Sun / Hol,1913,City Center,1,11,36,0,0
+13,Sun / Hol,1851,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1915,City Center,1,11,36,0,0
+13,Sun / Hol,1853,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1917,City Center,1,11,36,0,0
+13,Sun / Hol,1855,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1919,City Center,1,11,36,0,0
+13,Sun / Hol,1857,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1924,City Center,1,11,36,0,0
+13,Sun / Hol,1862,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1929,City Center,1,11,36,0,0
+13,Sun / Hol,1867,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1934,City Center,1,11,36,0,0
+13,Sun / Hol,1872,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1939,City Center,1,11,36,0,0
+13,Sun / Hol,1877,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1944,City Center,1,11,36,0,0
+13,Sun / Hol,1882,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1949,City Center,1,11,36,0,0
+13,Sun / Hol,1887,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1954,City Center,1,11,36,0,0
+13,Sun / Hol,1892,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1959,City Center,1,11,36,0,0
+13,Sun / Hol,1897,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1964,City Center,1,11,36,0,0
+13,Sun / Hol,1902,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1968,City Center,1,11,36,0,0
+13,Sun / Hol,1906,Van Mall TC,0,11,35,0,0
+13,Sun / Hol,1914,City Center,1,12,36,0,0
+13,Sun / Hol,1852,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1916,City Center,1,12,36,0,0
+13,Sun / Hol,1854,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1918,City Center,1,12,36,0,0
+13,Sun / Hol,1856,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1922,City Center,1,12,36,0,0
+13,Sun / Hol,1860,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1927,City Center,1,12,36,0,0
+13,Sun / Hol,1865,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1932,City Center,1,12,36,0,0
+13,Sun / Hol,1870,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1937,City Center,1,12,36,0,0
+13,Sun / Hol,1875,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1942,City Center,1,12,36,0,0
+13,Sun / Hol,1880,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1947,City Center,1,12,36,0,0
+13,Sun / Hol,1885,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1952,City Center,1,12,36,0,0
+13,Sun / Hol,1890,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1957,City Center,1,12,36,0,0
+13,Sun / Hol,1895,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1962,City Center,1,12,36,0,0
+13,Sun / Hol,1900,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1967,City Center,1,12,36,0,0
+13,Sun / Hol,1905,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1970,City Center,1,12,36,0,0
+13,Sun / Hol,1908,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1972,City Center,1,12,36,0,0
+13,Sun / Hol,1910,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1974,City Center,1,12,36,0,0
+13,Sun / Hol,1912,Van Mall TC,0,12,35,0,0
+13,Sun / Hol,1920,City Center,1,13,36,0,0
+13,Sun / Hol,1858,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1925,City Center,1,13,36,0,0
+13,Sun / Hol,1863,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1930,City Center,1,13,36,0,0
+13,Sun / Hol,1868,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1935,City Center,1,13,36,0,0
+13,Sun / Hol,1873,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1940,City Center,1,13,36,0,0
+13,Sun / Hol,1878,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1945,City Center,1,13,36,0,0
+13,Sun / Hol,1883,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1950,City Center,1,13,36,0,0
+13,Sun / Hol,1888,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1955,City Center,1,13,36,0,0
+13,Sun / Hol,1893,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1960,City Center,1,13,36,0,0
+13,Sun / Hol,1898,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1965,City Center,1,13,36,0,0
+13,Sun / Hol,1903,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1969,City Center,1,13,36,0,0
+13,Sun / Hol,1907,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1971,City Center,1,13,36,0,0
+13,Sun / Hol,1909,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1973,City Center,1,13,36,0,0
+13,Sun / Hol,1911,Van Mall TC,0,13,35,0,0
+13,Sun / Hol,1921,City Center,1,14,36,0,0
+13,Sun / Hol,1859,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1926,City Center,1,14,36,0,0
+13,Sun / Hol,1864,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1931,City Center,1,14,36,0,0
+13,Sun / Hol,1869,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1936,City Center,1,14,36,0,0
+13,Sun / Hol,1874,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1941,City Center,1,14,36,0,0
+13,Sun / Hol,1879,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1946,City Center,1,14,36,0,0
+13,Sun / Hol,1884,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1951,City Center,1,14,36,0,0
+13,Sun / Hol,1889,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1956,City Center,1,14,36,0,0
+13,Sun / Hol,1894,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1961,City Center,1,14,36,0,0
+13,Sun / Hol,1899,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1966,City Center,1,14,36,0,0
+13,Sun / Hol,1904,Van Mall TC,0,14,35,0,0
+13,Sun / Hol,1923,City Center,1,15,36,0,0
+13,Sun / Hol,1861,Van Mall TC,0,15,35,0,0
+13,Sun / Hol,1928,City Center,1,15,36,0,0
+13,Sun / Hol,1866,Van Mall TC,0,15,35,0,0
+13,Sun / Hol,1933,City Center,1,15,36,0,0
+13,Sun / Hol,1871,Van Mall TC,0,15,35,0,0
+13,Sun / Hol,1938,City Center,1,15,36,0,0
+13,Sun / Hol,1876,Van Mall TC,0,15,35,0,0
+13,Sun / Hol,1943,City Center,1,15,36,0,0
+13,Sun / Hol,1881,Van Mall TC,0,15,35,0,0
+13,Sun / Hol,1948,City Center,1,15,36,0,0
+13,Sun / Hol,1886,Van Mall TC,0,15,35,0,0
+13,Sun / Hol,1953,City Center,1,15,36,0,0
+13,Sun / Hol,1891,Van Mall TC,0,15,35,0,0
+13,Sun / Hol,1958,City Center,1,15,36,0,0
+13,Sun / Hol,1896,Van Mall TC,0,15,35,0,0
+13,Sun / Hol,1963,City Center,1,15,36,0,0
+13,Sun / Hol,1901,Van Mall TC,0,15,35,0,0
+14,Sun / Hol,1991,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2052,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,1992,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2053,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,1993,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2054,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,1994,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2055,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,1995,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2056,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,1996,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2058,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,1998,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2060,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,2000,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2062,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,2002,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2064,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,2004,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2066,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,2006,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2068,City Center via Jantzen,0,16,40,0,0
+14,Sun / Hol,2008,Delta Park No Jantzen,1,16,39,0,0
+14,Sun / Hol,2070,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2010,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2072,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2012,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2074,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2014,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2076,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2016,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2078,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2018,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2080,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2020,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2082,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2022,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2084,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2024,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2086,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2026,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2088,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2028,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2090,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2030,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2092,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2032,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2094,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2034,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2096,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2036,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2098,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2038,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2100,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2040,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2102,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2042,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2104,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2044,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2106,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2046,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2108,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2047,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2109,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2048,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2110,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2049,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2111,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2050,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2112,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,2051,Delta Park via Jantzen,1,16,37,0,0
+14,Sun / Hol,2113,City Center No Jantzen,0,16,41,0,0
+14,Sun / Hol,3582,Broadway & 12th St fs,1,16,38,0,0
+14,Sun / Hol,2057,City Center via Jantzen,0,17,40,0,0
+14,Sun / Hol,1997,Delta Park No Jantzen,1,17,39,0,0
+14,Sun / Hol,2059,City Center via Jantzen,0,17,40,0,0
+14,Sun / Hol,1999,Delta Park No Jantzen,1,17,39,0,0
+14,Sun / Hol,2061,City Center via Jantzen,0,17,40,0,0
+14,Sun / Hol,2001,Delta Park No Jantzen,1,17,39,0,0
+14,Sun / Hol,2063,City Center via Jantzen,0,17,40,0,0
+14,Sun / Hol,2003,Delta Park No Jantzen,1,17,39,0,0
+14,Sun / Hol,2065,City Center via Jantzen,0,17,40,0,0
+14,Sun / Hol,2005,Delta Park No Jantzen,1,17,39,0,0
+14,Sun / Hol,2067,City Center via Jantzen,0,17,40,0,0
+14,Sun / Hol,2007,Delta Park No Jantzen,1,17,39,0,0
+14,Sun / Hol,2069,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2009,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2071,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2011,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2073,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2013,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2075,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2015,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2077,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2017,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2079,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2019,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2081,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2021,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2083,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2023,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2085,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2025,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2087,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2027,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2089,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2029,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2091,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2031,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2093,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2033,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2095,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2035,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2097,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2037,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2099,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2039,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2101,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2041,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2103,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2043,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2105,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,2045,Delta Park via Jantzen,1,17,37,0,0
+14,Sun / Hol,2107,City Center No Jantzen,0,17,41,0,0
+14,Sun / Hol,4662,Broadway & 12th St fs,1,17,38,0,0
+15,Sun / Hol,525,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,545,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,526,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,546,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,527,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,547,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,528,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,548,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,529,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,549,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,530,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,550,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,531,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,551,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,532,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,552,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,533,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,553,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,534,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,554,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,535,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,555,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,536,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,556,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,537,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,557,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,538,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,558,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,539,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,559,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,540,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,560,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,541,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,561,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,542,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,562,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,543,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,563,Fisher's Landing Transit,0,18,43,0,0
+15,Sun / Hol,544,Parkrose/Sumner Transit,1,18,42,0,0
+15,Sun / Hol,564,Fisher's Landing Transit,0,18,43,0,0
+17,Sun / Hol,565,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,566,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4035,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,568,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4037,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,570,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4039,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,572,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4041,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,4064,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4043,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,4066,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4045,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,4068,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4047,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,4070,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4049,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,4072,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4051,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,4074,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4053,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,4076,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4055,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,573,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4057,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,575,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4059,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,577,99th Street TC,0,19,44,0,0
+17,Sun / Hol,4061,Broadway & Evergreen Blv,1,19,45,0,0
+17,Sun / Hol,4034,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,567,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4036,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,569,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4038,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,571,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4040,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,4063,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4042,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,4065,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4044,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,4067,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4046,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,4069,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4048,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,4071,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4050,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,4073,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4052,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,4075,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4054,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,4077,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4056,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,574,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4058,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,576,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4060,Broadway & Evergreen Blv,1,20,45,0,0
+17,Sun / Hol,578,99th Street TC,0,20,44,0,0
+17,Sun / Hol,4062,Broadway & Evergreen Blv,1,20,45,0,0
+18,Sun / Hol,976,Orchards,1,21,46,0,0
+18,Sun / Hol,985,Van Mall TC,0,21,47,0,0
+18,Sun / Hol,977,Orchards,1,21,46,0,0
+18,Sun / Hol,986,Van Mall TC,0,21,47,0,0
+18,Sun / Hol,978,Orchards,1,21,46,0,0
+18,Sun / Hol,987,Van Mall TC,0,21,47,0,0
+18,Sun / Hol,979,Orchards,1,21,46,0,0
+18,Sun / Hol,988,Van Mall TC,0,21,47,0,0
+18,Sun / Hol,980,Orchards,1,21,46,0,0
+18,Sun / Hol,989,Van Mall TC,0,21,47,0,0
+18,Sun / Hol,981,Orchards,1,21,46,0,0
+18,Sun / Hol,990,Van Mall TC,0,21,47,0,0
+18,Sun / Hol,982,Orchards,1,21,46,0,0
+18,Sun / Hol,991,Van Mall TC,0,21,47,0,0
+18,Sun / Hol,983,Orchards,1,21,46,0,0
+18,Sun / Hol,992,Van Mall TC,0,21,47,0,0
+18,Sun / Hol,984,Orchards,1,21,46,0,0
+18,Sun / Hol,993,Van Mall TC,0,21,47,0,0
+19,Sun / Hol,930,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,939,Van Mall TC,0,22,49,0,0
+19,Sun / Hol,931,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,940,Van Mall TC,0,22,49,0,0
+19,Sun / Hol,932,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,941,Van Mall TC,0,22,49,0,0
+19,Sun / Hol,933,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,942,Van Mall TC,0,22,49,0,0
+19,Sun / Hol,934,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,943,Van Mall TC,0,22,49,0,0
+19,Sun / Hol,935,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,944,Van Mall TC,0,22,49,0,0
+19,Sun / Hol,936,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,945,Van Mall TC,0,22,49,0,0
+19,Sun / Hol,937,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,946,Van Mall TC,0,22,49,0,0
+19,Sun / Hol,938,East Fourth Plain,1,22,48,0,0
+19,Sun / Hol,947,Van Mall TC,0,22,49,0,0
+20,Sun / Hol,256,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,266,99th Street TC,0,23,51,0,0
+20,Sun / Hol,257,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,267,99th Street TC,0,23,51,0,0
+20,Sun / Hol,258,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,268,99th Street TC,0,23,51,0,0
+20,Sun / Hol,259,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,269,99th Street TC,0,23,51,0,0
+20,Sun / Hol,260,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,270,99th Street TC,0,23,51,0,0
+20,Sun / Hol,261,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,271,99th Street TC,0,23,51,0,0
+20,Sun / Hol,262,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,272,99th Street TC,0,23,51,0,0
+20,Sun / Hol,263,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,273,99th Street TC,0,23,51,0,0
+20,Sun / Hol,264,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,274,99th Street TC,0,23,51,0,0
+20,Sun / Hol,265,Van Mall TC,1,23,50,0,0
+20,Sun / Hol,275,99th Street TC,0,23,51,0,0
+21,Sun / Hol,4624,Van Mall TC,1,24,54,0,0
+3,Sun / Hol,2982,Battle Ground,1,24,7,0,0
+3,Sun / Hol,2991,Van Mall TC,0,24,8,0,0
+21,Sun / Hol,4616,Fisher's Landing TC,0,24,52,0,0
+21,Sun / Hol,4627,Van Mall TC,1,24,54,0,0
+3,Sun / Hol,2985,Battle Ground,1,24,7,0,0
+3,Sun / Hol,2994,Van Mall TC,0,24,8,0,0
+21,Sun / Hol,4619,Fisher's Landing TC,0,24,52,0,0
+21,Sun / Hol,4630,Van Mall TC,1,24,54,0,0
+3,Sun / Hol,2988,Battle Ground,1,24,7,0,0
+3,Sun / Hol,2997,Van Mall TC,0,24,8,0,0
+21,Sun / Hol,4622,Fisher's Landing TC,0,24,52,0,0
+21,Sun / Hol,4633,Van Mall TC,1,24,54,0,0
+21,Sun / Hol,4614,Fisher's Landing TC,0,25,52,0,0
+21,Sun / Hol,4625,Van Mall TC,1,25,54,0,0
+3,Sun / Hol,2983,Battle Ground,1,25,7,0,0
+3,Sun / Hol,2992,Van Mall TC,0,25,8,0,0
+21,Sun / Hol,4617,Fisher's Landing TC,0,25,52,0,0
+21,Sun / Hol,4628,Van Mall TC,1,25,54,0,0
+3,Sun / Hol,2986,Battle Ground,1,25,7,0,0
+3,Sun / Hol,2995,Van Mall TC,0,25,8,0,0
+21,Sun / Hol,4620,Fisher's Landing TC,0,25,52,0,0
+21,Sun / Hol,4631,Van Mall TC,1,25,54,0,0
+3,Sun / Hol,2989,Battle Ground,1,25,7,0,0
+3,Sun / Hol,2998,Van Mall TC,0,25,8,0,0
+21,Sun / Hol,4623,Fisher's Landing TC,0,25,52,0,0
+21,Sun / Hol,4615,Fisher's Landing TC,0,26,52,0,0
+21,Sun / Hol,4626,Van Mall TC,1,26,54,0,0
+3,Sun / Hol,2984,Battle Ground,1,26,7,0,0
+3,Sun / Hol,2993,Van Mall TC,0,26,8,0,0
+21,Sun / Hol,4618,Fisher's Landing TC,0,26,52,0,0
+21,Sun / Hol,4629,Van Mall TC,1,26,54,0,0
+3,Sun / Hol,2987,Battle Ground,1,26,7,0,0
+3,Sun / Hol,2996,Van Mall TC,0,26,8,0,0
+21,Sun / Hol,4621,Fisher's Landing TC,0,26,52,0,0
+21,Sun / Hol,4632,Van Mall TC,1,26,54,0,0
+3,Sun / Hol,2990,Battle Ground,1,26,7,0,0
+3,Sun / Hol,2999,Van Mall TC,0,26,8,0,0
+22,Sun / Hol,9,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,513,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,10,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,514,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,11,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,515,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,1,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,516,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,2,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,517,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,3,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,518,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,4,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,519,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,5,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,520,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,6,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,521,Fisher's Landing Transit,0,27,56,0,0
+22,Sun / Hol,8,Addy St & Addy Loop,1,27,55,0,0
+22,Sun / Hol,522,Fisher's Landing Transit,0,27,56,0,0
+1,Weekday,221,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,466,99th Street TC,0,28,57,0,0
+1,Weekday,455,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,467,99th Street TC,0,28,57,0,0
+1,Weekday,456,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,468,99th Street TC,0,28,57,0,0
+1,Weekday,457,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,469,99th Street TC,0,28,57,0,0
+1,Weekday,458,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,470,99th Street TC,0,28,57,0,0
+1,Weekday,459,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,471,99th Street TC,0,28,57,0,0
+1,Weekday,460,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,472,99th Street TC,0,28,57,0,0
+1,Weekday,461,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,473,99th Street TC,0,28,57,0,0
+1,Weekday,462,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,474,99th Street TC,0,28,57,0,0
+1,Weekday,463,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,475,99th Street TC,0,28,57,0,0
+1,Weekday,464,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,476,99th Street TC,0,28,57,0,0
+1,Weekday,465,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,477,99th Street TC,0,28,57,0,0
+1,Weekday,222,Broadway & Evergreen Blv,1,28,58,0,0
+1,Weekday,482,99th Street TC,0,28,57,0,0
+2,Weekday,764,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,793,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,736,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,708,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,766,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,794,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,738,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,710,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,768,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,796,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,740,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,712,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,770,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,798,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,742,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,714,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,772,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,800,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,744,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,716,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,774,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,802,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,746,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,718,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,776,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,804,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,748,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,720,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,778,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,806,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,750,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,722,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,780,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,808,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,752,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,724,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,782,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,810,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,754,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,726,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,784,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,812,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,756,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,728,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,786,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,814,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,758,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,730,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,788,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,819,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,760,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,732,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,790,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,816,Columbia House Blvd at P,0,29,64,0,0
+2,Weekday,762,Grand To VA Transit Center,1,29,60,0,0
+2,Weekday,734,Fruit Valley Rd & La Fra,1,29,61,0,0
+2,Weekday,792,FV to VA Transit Center,0,29,63,0,0
+2,Weekday,707,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,765,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,815,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,737,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,709,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,767,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,795,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,739,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,711,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,769,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,797,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,741,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,713,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,771,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,799,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,743,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,715,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,773,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,801,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,745,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,717,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,775,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,803,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,747,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,719,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,777,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,805,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,749,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,721,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,779,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,807,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,751,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,723,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,781,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,809,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,753,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,725,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,783,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,811,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,755,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,727,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,785,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,813,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,757,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,729,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,787,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,818,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,759,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,731,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,789,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,820,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,761,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,733,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,791,FV to VA Transit Center,0,30,63,0,0
+2,Weekday,817,Columbia House Blvd at P,0,30,64,0,0
+2,Weekday,763,Grand To VA Transit Center,1,30,60,0,0
+2,Weekday,735,Fruit Valley Rd & La Fra,1,30,61,0,0
+2,Weekday,1990,FV to VA Transit Center,0,30,63,0,0
+12,Weekday,3157,BG/Yacolt,1,31,103,0,0
+3,Weekday,2914,Van Mall TC,0,31,66,0,0
+3,Weekday,2888,Battle Ground,1,31,65,0,0
+3,Weekday,2917,Van Mall TC,0,31,66,0,0
+3,Weekday,2891,Battle Ground,1,31,65,0,0
+3,Weekday,2920,Van Mall TC,0,31,66,0,0
+3,Weekday,2894,Battle Ground,1,31,65,0,0
+3,Weekday,2923,Van Mall TC,0,31,66,0,0
+3,Weekday,2897,Battle Ground,1,31,65,0,0
+3,Weekday,2926,Van Mall TC,0,31,66,0,0
+3,Weekday,2900,Battle Ground,1,31,65,0,0
+3,Weekday,2929,Van Mall TC,0,31,66,0,0
+3,Weekday,2903,Battle Ground,1,31,65,0,0
+3,Weekday,2932,Van Mall TC,0,31,66,0,0
+3,Weekday,2906,Battle Ground,1,31,65,0,0
+3,Weekday,2935,Van Mall TC,0,31,66,0,0
+3,Weekday,2909,Battle Ground,1,31,65,0,0
+3,Weekday,2938,Van Mall TC,0,31,66,0,0
+3,Weekday,2885,Battle Ground,1,32,65,0,0
+3,Weekday,2913,Van Mall TC,0,32,66,0,0
+3,Weekday,2887,Battle Ground,1,32,65,0,0
+3,Weekday,2916,Van Mall TC,0,32,66,0,0
+3,Weekday,2890,Battle Ground,1,32,65,0,0
+3,Weekday,2919,Van Mall TC,0,32,66,0,0
+3,Weekday,2893,Battle Ground,1,32,65,0,0
+3,Weekday,2922,Van Mall TC,0,32,66,0,0
+3,Weekday,2896,Battle Ground,1,32,65,0,0
+3,Weekday,2925,Van Mall TC,0,32,66,0,0
+3,Weekday,2899,Battle Ground,1,32,65,0,0
+3,Weekday,2928,Van Mall TC,0,32,66,0,0
+3,Weekday,2902,Battle Ground,1,32,65,0,0
+3,Weekday,2931,Van Mall TC,0,32,66,0,0
+3,Weekday,2905,Battle Ground,1,32,65,0,0
+3,Weekday,2934,Van Mall TC,0,32,66,0,0
+3,Weekday,2908,Battle Ground,1,32,65,0,0
+3,Weekday,2937,Van Mall TC,0,32,66,0,0
+3,Weekday,2911,Battle Ground,1,32,65,0,0
+3,Weekday,2940,Van Mall TC,0,32,66,0,0
+3,Weekday,2886,Battle Ground,1,33,65,0,0
+3,Weekday,2915,Van Mall TC,0,33,66,0,0
+3,Weekday,2889,Battle Ground,1,33,65,0,0
+3,Weekday,2918,Van Mall TC,0,33,66,0,0
+3,Weekday,2892,Battle Ground,1,33,65,0,0
+3,Weekday,2921,Van Mall TC,0,33,66,0,0
+3,Weekday,2895,Battle Ground,1,33,65,0,0
+3,Weekday,2924,Van Mall TC,0,33,66,0,0
+3,Weekday,2898,Battle Ground,1,33,65,0,0
+3,Weekday,2927,Van Mall TC,0,33,66,0,0
+3,Weekday,2901,Battle Ground,1,33,65,0,0
+3,Weekday,2930,Van Mall TC,0,33,66,0,0
+3,Weekday,2904,Battle Ground,1,33,65,0,0
+3,Weekday,2933,Van Mall TC,0,33,66,0,0
+3,Weekday,2907,Battle Ground,1,33,65,0,0
+3,Weekday,2936,Van Mall TC,0,33,66,0,0
+3,Weekday,2910,Battle Ground,1,33,65,0,0
+3,Weekday,2939,Van Mall TC,0,33,66,0,0
+3,Weekday,2912,Battle Ground,1,33,65,0,0
+3,Weekday,2941,Van Mall TC,0,33,66,0,0
+4,Weekday,281,99th Street TC,1,34,68,0,0
+4,Weekday,160,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,282,99th Street TC,1,34,68,0,0
+4,Weekday,161,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,283,99th Street TC,1,34,68,0,0
+4,Weekday,162,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,284,99th Street TC,1,34,68,0,0
+4,Weekday,163,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,285,99th Street TC,1,34,68,0,0
+4,Weekday,164,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,286,99th Street TC,1,34,68,0,0
+4,Weekday,165,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,287,99th Street TC,1,34,68,0,0
+4,Weekday,166,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,288,99th Street TC,1,34,68,0,0
+4,Weekday,167,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,289,99th Street TC,1,34,68,0,0
+4,Weekday,168,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,290,99th Street TC,1,34,68,0,0
+4,Weekday,169,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,291,99th Street TC,1,34,68,0,0
+4,Weekday,170,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,292,99th Street TC,1,34,68,0,0
+4,Weekday,171,NE 139th St & 10th Ave,0,34,67,0,0
+4,Weekday,293,99th Street TC,1,34,68,0,0
+6,Weekday,1311,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1339,99th Street TC,1,35,71,0,0
+6,Weekday,1314,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1342,99th Street TC,1,35,71,0,0
+6,Weekday,1317,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1345,99th Street TC,1,35,71,0,0
+6,Weekday,1320,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1348,99th Street TC,1,35,71,0,0
+6,Weekday,1323,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1351,99th Street TC,1,35,71,0,0
+6,Weekday,1326,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1354,99th Street TC,1,35,71,0,0
+6,Weekday,1329,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1357,99th Street TC,1,35,71,0,0
+6,Weekday,1332,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1360,99th Street TC,1,35,71,0,0
+6,Weekday,1335,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1363,99th Street TC,1,35,71,0,0
+6,Weekday,1337,Mill Plain & Franklin [e,0,35,74,0,0
+6,Weekday,1365,99th Street TC,1,35,71,0,0
+6,Weekday,1312,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1340,99th Street TC,1,36,71,0,0
+6,Weekday,1315,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1343,99th Street TC,1,36,71,0,0
+6,Weekday,1318,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1346,99th Street TC,1,36,71,0,0
+6,Weekday,1321,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1349,99th Street TC,1,36,71,0,0
+6,Weekday,1324,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1352,99th Street TC,1,36,71,0,0
+6,Weekday,1327,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1355,99th Street TC,1,36,71,0,0
+6,Weekday,1330,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1358,99th Street TC,1,36,71,0,0
+6,Weekday,1333,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1361,99th Street TC,1,36,71,0,0
+6,Weekday,1336,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1364,99th Street TC,1,36,71,0,0
+6,Weekday,1338,Mill Plain & Franklin [e,0,36,74,0,0
+6,Weekday,1366,99th Street TC,1,36,71,0,0
+6,Weekday,1313,Mill Plain & Franklin [e,0,37,74,0,0
+6,Weekday,1341,99th Street TC,1,37,71,0,0
+6,Weekday,1316,Mill Plain & Franklin [e,0,37,74,0,0
+6,Weekday,1344,99th Street TC,1,37,71,0,0
+6,Weekday,1319,Mill Plain & Franklin [e,0,37,74,0,0
+6,Weekday,1347,99th Street TC,1,37,71,0,0
+6,Weekday,1322,Mill Plain & Franklin [e,0,37,74,0,0
+6,Weekday,1350,99th Street TC,1,37,71,0,0
+6,Weekday,1325,Mill Plain & Franklin [e,0,37,74,0,0
+6,Weekday,1353,99th Street TC,1,37,71,0,0
+6,Weekday,1328,Mill Plain & Franklin [e,0,37,74,0,0
+6,Weekday,1356,99th Street TC,1,37,71,0,0
+6,Weekday,1331,Mill Plain & Franklin [e,0,37,74,0,0
+6,Weekday,1359,99th Street TC,1,37,71,0,0
+6,Weekday,1334,Mill Plain & Franklin [e,0,37,74,0,0
+6,Weekday,1362,99th Street TC,1,37,71,0,0
+7,Weekday,480,Fisher's Landing Transit,1,38,76,0,0
+7,Weekday,319,Broadway & Evergreen Blv,0,38,78,0,0
+7,Weekday,350,Fisher's Landing Transit,1,38,75,0,0
+7,Weekday,323,Broadway & Evergreen Blv,0,38,78,0,0
+7,Weekday,354,Fisher's Landing Transit,1,38,75,0,0
+7,Weekday,327,Broadway & Evergreen Blv,0,38,78,0,0
+7,Weekday,358,Fisher's Landing Transit,1,38,75,0,0
+7,Weekday,331,Broadway & Evergreen Blv,0,38,78,0,0
+7,Weekday,362,Fisher's Landing Transit,1,38,75,0,0
+7,Weekday,335,Broadway & Evergreen Blv,0,38,78,0,0
+7,Weekday,366,Fisher's Landing Transit,1,38,75,0,0
+7,Weekday,339,Broadway & Evergreen Blv,0,38,78,0,0
+7,Weekday,370,Fisher's Landing Transit,1,38,75,0,0
+7,Weekday,343,Broadway & Evergreen Blv,0,38,78,0,0
+7,Weekday,374,Fisher's Landing Transit,1,38,75,0,0
+7,Weekday,347,Broadway & Evergreen Blv,0,38,78,0,0
+7,Weekday,377,Fisher's Landing Transit,1,38,75,0,0
+7,Weekday,318,Broadway & Evergreen Blv,0,39,79,0,0
+7,Weekday,349,Fisher's Landing Transit,1,39,75,0,0
+7,Weekday,322,Broadway & Evergreen Blv,0,39,78,0,0
+7,Weekday,353,Fisher's Landing Transit,1,39,75,0,0
+7,Weekday,326,Broadway & Evergreen Blv,0,39,78,0,0
+7,Weekday,357,Fisher's Landing Transit,1,39,75,0,0
+7,Weekday,330,Broadway & Evergreen Blv,0,39,78,0,0
+7,Weekday,361,Fisher's Landing Transit,1,39,75,0,0
+7,Weekday,334,Broadway & Evergreen Blv,0,39,78,0,0
+7,Weekday,365,Fisher's Landing Transit,1,39,75,0,0
+7,Weekday,338,Broadway & Evergreen Blv,0,39,78,0,0
+7,Weekday,369,Fisher's Landing Transit,1,39,75,0,0
+7,Weekday,342,Broadway & Evergreen Blv,0,39,78,0,0
+7,Weekday,373,Fisher's Landing Transit,1,39,75,0,0
+7,Weekday,346,Broadway & Evergreen Blv,0,39,78,0,0
+7,Weekday,320,Broadway & Evergreen Blv,0,40,78,0,0
+7,Weekday,351,Fisher's Landing Transit,1,40,75,0,0
+7,Weekday,324,Broadway & Evergreen Blv,0,40,78,0,0
+7,Weekday,355,Fisher's Landing Transit,1,40,75,0,0
+7,Weekday,328,Broadway & Evergreen Blv,0,40,78,0,0
+7,Weekday,359,Fisher's Landing Transit,1,40,75,0,0
+7,Weekday,332,Broadway & Evergreen Blv,0,40,78,0,0
+7,Weekday,363,Fisher's Landing Transit,1,40,75,0,0
+7,Weekday,336,Broadway & Evergreen Blv,0,40,78,0,0
+7,Weekday,367,Fisher's Landing Transit,1,40,75,0,0
+7,Weekday,340,Broadway & Evergreen Blv,0,40,78,0,0
+7,Weekday,371,Fisher's Landing Transit,1,40,75,0,0
+7,Weekday,344,Broadway & Evergreen Blv,0,40,78,0,0
+7,Weekday,375,Fisher's Landing Transit,1,40,75,0,0
+7,Weekday,229,Fisher's Landing Transit,1,41,76,0,0
+7,Weekday,321,Broadway & Evergreen Blv,0,41,78,0,0
+7,Weekday,352,Fisher's Landing Transit,1,41,75,0,0
+7,Weekday,325,Broadway & Evergreen Blv,0,41,78,0,0
+7,Weekday,356,Fisher's Landing Transit,1,41,75,0,0
+7,Weekday,329,Broadway & Evergreen Blv,0,41,78,0,0
+7,Weekday,360,Fisher's Landing Transit,1,41,75,0,0
+7,Weekday,333,Broadway & Evergreen Blv,0,41,78,0,0
+7,Weekday,364,Fisher's Landing Transit,1,41,75,0,0
+7,Weekday,337,Broadway & Evergreen Blv,0,41,78,0,0
+7,Weekday,368,Fisher's Landing Transit,1,41,75,0,0
+7,Weekday,341,Broadway & Evergreen Blv,0,41,78,0,0
+7,Weekday,372,Fisher's Landing Transit,1,41,75,0,0
+7,Weekday,345,Broadway & Evergreen Blv,0,41,78,0,0
+7,Weekday,376,Fisher's Landing Transit,1,41,75,0,0
+7,Weekday,348,Broadway & Evergreen Blv,0,41,78,0,0
+8,Weekday,2612,Evergreen Blvd & C St,1,42,82,0,0
+9,Weekday,2642,Van Mall TC,1,42,83,0,0
+9,Weekday,132,Evergreen/Andresen,0,42,84,0,0
+8,Weekday,2584,99th Street TC,0,42,81,0,0
+8,Weekday,2616,Evergreen Blvd & C St,1,42,82,0,0
+9,Weekday,2646,Van Mall TC,1,42,83,0,0
+9,Weekday,136,Evergreen/Andresen,0,42,84,0,0
+8,Weekday,2588,99th Street TC,0,42,81,0,0
+8,Weekday,2620,Evergreen Blvd & C St,1,42,82,0,0
+9,Weekday,2650,Van Mall TC,1,42,83,0,0
+9,Weekday,140,Evergreen/Andresen,0,42,84,0,0
+8,Weekday,2592,99th Street TC,0,42,81,0,0
+8,Weekday,2624,Evergreen Blvd & C St,1,42,82,0,0
+9,Weekday,2654,Van Mall TC,1,42,83,0,0
+9,Weekday,144,Evergreen/Andresen,0,42,84,0,0
+8,Weekday,2596,99th Street TC,0,42,81,0,0
+8,Weekday,2628,Evergreen Blvd & C St,1,42,82,0,0
+9,Weekday,2658,Van Mall TC,1,42,83,0,0
+9,Weekday,148,Evergreen/Andresen,0,42,84,0,0
+8,Weekday,2600,99th Street TC,0,42,81,0,0
+8,Weekday,2632,Evergreen Blvd & C St,1,42,82,0,0
+9,Weekday,2662,Van Mall TC,1,42,83,0,0
+9,Weekday,152,Evergreen/Andresen,0,42,84,0,0
+8,Weekday,2604,99th Street TC,0,42,81,0,0
+8,Weekday,2636,Evergreen Blvd & C St,1,42,82,0,0
+9,Weekday,2666,Van Mall TC,1,42,83,0,0
+9,Weekday,156,Evergreen/Andresen,0,42,84,0,0
+8,Weekday,2608,99th Street TC,0,42,81,0,0
+9,Weekday,131,Evergreen/Andresen,0,43,84,0,0
+8,Weekday,2583,99th Street TC,0,43,81,0,0
+8,Weekday,2615,Evergreen Blvd & C St,1,43,82,0,0
+9,Weekday,2645,Van Mall TC,1,43,83,0,0
+9,Weekday,135,Evergreen/Andresen,0,43,84,0,0
+8,Weekday,2587,99th Street TC,0,43,81,0,0
+8,Weekday,2619,Evergreen Blvd & C St,1,43,82,0,0
+9,Weekday,2649,Van Mall TC,1,43,83,0,0
+9,Weekday,139,Evergreen/Andresen,0,43,84,0,0
+8,Weekday,2591,99th Street TC,0,43,81,0,0
+8,Weekday,2623,Evergreen Blvd & C St,1,43,82,0,0
+9,Weekday,2653,Van Mall TC,1,43,83,0,0
+9,Weekday,143,Evergreen/Andresen,0,43,84,0,0
+8,Weekday,2595,99th Street TC,0,43,81,0,0
+8,Weekday,2627,Evergreen Blvd & C St,1,43,82,0,0
+9,Weekday,2657,Van Mall TC,1,43,83,0,0
+9,Weekday,147,Evergreen/Andresen,0,43,84,0,0
+8,Weekday,2599,99th Street TC,0,43,81,0,0
+8,Weekday,2631,Evergreen Blvd & C St,1,43,82,0,0
+9,Weekday,2661,Van Mall TC,1,43,83,0,0
+9,Weekday,151,Evergreen/Andresen,0,43,84,0,0
+8,Weekday,2603,99th Street TC,0,43,81,0,0
+8,Weekday,2635,Evergreen Blvd & C St,1,43,82,0,0
+9,Weekday,2665,Van Mall TC,1,43,83,0,0
+9,Weekday,155,Evergreen/Andresen,0,43,84,0,0
+8,Weekday,2607,99th Street TC,0,43,81,0,0
+8,Weekday,2639,Evergreen Blvd & C St,1,43,82,0,0
+9,Weekday,2669,Van Mall TC,1,43,83,0,0
+9,Weekday,158,Evergreen/Andresen,0,43,84,0,0
+8,Weekday,2610,99th Street TC,0,43,81,0,0
+8,Weekday,2641,Evergreen Blvd & C St,1,43,82,0,0
+9,Weekday,2671,Van Mall TC,1,43,83,0,0
+8,Weekday,2613,Evergreen Blvd & C St,1,44,82,0,0
+9,Weekday,2643,Van Mall TC,1,44,83,0,0
+9,Weekday,133,Evergreen/Andresen,0,44,84,0,0
+8,Weekday,2585,99th Street TC,0,44,81,0,0
+8,Weekday,2617,Evergreen Blvd & C St,1,44,82,0,0
+9,Weekday,2647,Van Mall TC,1,44,83,0,0
+9,Weekday,137,Evergreen/Andresen,0,44,84,0,0
+8,Weekday,2589,99th Street TC,0,44,81,0,0
+8,Weekday,2621,Evergreen Blvd & C St,1,44,82,0,0
+9,Weekday,2651,Van Mall TC,1,44,83,0,0
+9,Weekday,141,Evergreen/Andresen,0,44,84,0,0
+8,Weekday,2593,99th Street TC,0,44,81,0,0
+8,Weekday,2625,Evergreen Blvd & C St,1,44,82,0,0
+9,Weekday,2655,Van Mall TC,1,44,83,0,0
+9,Weekday,145,Evergreen/Andresen,0,44,84,0,0
+8,Weekday,2597,99th Street TC,0,44,81,0,0
+8,Weekday,2629,Evergreen Blvd & C St,1,44,82,0,0
+9,Weekday,2659,Van Mall TC,1,44,83,0,0
+9,Weekday,149,Evergreen/Andresen,0,44,84,0,0
+8,Weekday,2601,99th Street TC,0,44,81,0,0
+8,Weekday,2633,Evergreen Blvd & C St,1,44,82,0,0
+9,Weekday,2663,Van Mall TC,1,44,83,0,0
+9,Weekday,153,Evergreen/Andresen,0,44,84,0,0
+8,Weekday,2605,99th Street TC,0,44,81,0,0
+8,Weekday,2637,Evergreen Blvd & C St,1,44,82,0,0
+9,Weekday,2667,Van Mall TC,1,44,83,0,0
+9,Weekday,157,Evergreen/Andresen,0,44,84,0,0
+8,Weekday,2609,99th Street TC,0,44,81,0,0
+8,Weekday,2640,Evergreen Blvd & C St,1,44,82,0,0
+9,Weekday,2670,Van Mall TC,1,44,83,0,0
+9,Weekday,159,Evergreen/Andresen,0,44,84,0,0
+8,Weekday,2611,99th Street TC,0,44,81,0,0
+8,Weekday,2614,Evergreen Blvd & C St,1,45,82,0,0
+9,Weekday,2644,Van Mall TC,1,45,83,0,0
+9,Weekday,134,Evergreen/Andresen,0,45,84,0,0
+8,Weekday,2586,99th Street TC,0,45,81,0,0
+8,Weekday,2618,Evergreen Blvd & C St,1,45,82,0,0
+9,Weekday,2648,Van Mall TC,1,45,83,0,0
+9,Weekday,138,Evergreen/Andresen,0,45,84,0,0
+8,Weekday,2590,99th Street TC,0,45,81,0,0
+8,Weekday,2622,Evergreen Blvd & C St,1,45,82,0,0
+9,Weekday,2652,Van Mall TC,1,45,83,0,0
+9,Weekday,142,Evergreen/Andresen,0,45,84,0,0
+8,Weekday,2594,99th Street TC,0,45,81,0,0
+8,Weekday,2626,Evergreen Blvd & C St,1,45,82,0,0
+9,Weekday,2656,Van Mall TC,1,45,83,0,0
+9,Weekday,146,Evergreen/Andresen,0,45,84,0,0
+8,Weekday,2598,99th Street TC,0,45,81,0,0
+8,Weekday,2630,Evergreen Blvd & C St,1,45,82,0,0
+9,Weekday,2660,Van Mall TC,1,45,83,0,0
+9,Weekday,150,Evergreen/Andresen,0,45,84,0,0
+8,Weekday,2602,99th Street TC,0,45,81,0,0
+8,Weekday,2634,Evergreen Blvd & C St,1,45,82,0,0
+9,Weekday,2664,Van Mall TC,1,45,83,0,0
+9,Weekday,154,Evergreen/Andresen,0,45,84,0,0
+8,Weekday,2606,99th Street TC,0,45,81,0,0
+8,Weekday,2638,Evergreen Blvd & C St,1,45,82,0,0
+9,Weekday,2668,Van Mall TC,1,45,83,0,0
+10,Weekday,1469,Fisher's Landing Transit via 164,1,46,88,0,0
+10,Weekday,1437,Evergreen Blvd & C St via 164,0,46,93,0,0
+10,Weekday,1503,Fisher's Landing Transit via 164,1,46,87,0,0
+10,Weekday,1411,Evergreen Blvd & C St via 192,0,46,94,0,0
+10,Weekday,1477,Fisher's Landing Transit via 192,1,46,90,0,0
+10,Weekday,1444,Evergreen Blvd & C St via 164,0,46,93,0,0
+10,Weekday,1510,Fisher's Landing Transit via 164,1,46,87,0,0
+10,Weekday,1418,Evergreen Blvd & C St via 192,0,46,94,0,0
+10,Weekday,1484,Fisher's Landing Transit via 192,1,46,90,0,0
+10,Weekday,1451,Evergreen Blvd & C St via 164,0,46,93,0,0
+10,Weekday,1517,Fisher's Landing Transit via 164,1,46,87,0,0
+10,Weekday,1426,Evergreen Blvd & C St via 192,0,46,94,0,0
+10,Weekday,1492,Fisher's Landing Transit via 192,1,46,90,0,0
+10,Weekday,1459,Evergreen Blvd & C St via 164,0,46,93,0,0
+10,Weekday,1525,Fisher's Landing Transit via 164,1,46,87,0,0
+10,Weekday,1463,Evergreen Blvd & C St via 164,0,46,93,0,0
+10,Weekday,1529,Fisher's Landing Transit via 164,1,46,87,0,0
+10,Weekday,1407,Evergreen Blvd & C St via 192,0,47,94,0,0
+10,Weekday,1473,Fisher's Landing Transit via 192,1,47,90,0,0
+10,Weekday,1440,Evergreen Blvd & C St via 164,0,47,93,0,0
+10,Weekday,1506,Fisher's Landing Transit via 164,1,47,87,0,0
+10,Weekday,1443,Evergreen Blvd & C St via 164,0,47,93,0,0
+10,Weekday,1509,Fisher's Landing Transit via 164,1,47,87,0,0
+10,Weekday,1446,Evergreen Blvd & C St via 164,0,47,93,0,0
+10,Weekday,1513,Fisher's Landing Transit via 164,1,47,87,0,0
+10,Weekday,1420,Evergreen Blvd & C St via 192,0,47,94,0,0
+10,Weekday,1486,Fisher's Landing Transit via 192,1,47,90,0,0
+10,Weekday,1453,Evergreen Blvd & C St via 164,0,47,93,0,0
+10,Weekday,1519,Fisher's Landing Transit via 164,1,47,87,0,0
+10,Weekday,1457,Evergreen Blvd & C St via 164,0,47,93,0,0
+10,Weekday,1523,Fisher's Landing Transit via 164,1,47,87,0,0
+10,Weekday,1461,Evergreen Blvd & C St via 164,0,47,93,0,0
+10,Weekday,1527,Fisher's Landing Transit via 164,1,47,87,0,0
+10,Weekday,1470,Fisher's Landing Transit via 192,1,48,89,0,0
+10,Weekday,1438,Evergreen Blvd & C St via 164,0,48,93,0,0
+10,Weekday,1504,Fisher's Landing Transit via 164,1,48,87,0,0
+10,Weekday,1412,Evergreen Blvd & C St via 192,0,48,94,0,0
+10,Weekday,1478,Fisher's Landing Transit via 192,1,48,90,0,0
+10,Weekday,1445,Evergreen Blvd & C St via 164,0,48,93,0,0
+10,Weekday,1511,Fisher's Landing Transit via 164,1,48,87,0,0
+10,Weekday,1448,Evergreen Blvd & C St via 164,0,48,93,0,0
+10,Weekday,1514,Fisher's Landing Transit via 164,1,48,87,0,0
+10,Weekday,1452,Evergreen Blvd & C St via 164,0,48,93,0,0
+10,Weekday,1518,Fisher's Landing Transit via 164,1,48,87,0,0
+10,Weekday,1456,Evergreen Blvd & C St via 164,0,48,93,0,0
+10,Weekday,1522,Fisher's Landing Transit via 164,1,48,87,0,0
+10,Weekday,1431,Evergreen Blvd & C St via 192,0,48,94,0,0
+10,Weekday,1497,Fisher's Landing Transit via 192,1,48,90,0,0
+10,Weekday,1408,Evergreen Blvd & C St via 192,0,49,94,0,0
+10,Weekday,1474,Fisher's Landing Transit via 192,1,49,90,0,0
+10,Weekday,1441,Evergreen Blvd & C St via 164,0,49,93,0,0
+10,Weekday,1507,Fisher's Landing Transit via 164,1,49,87,0,0
+10,Weekday,1415,Evergreen Blvd & C St via 192,0,49,94,0,0
+10,Weekday,1481,Fisher's Landing Transit via 192,1,49,90,0,0
+10,Weekday,1419,Evergreen Blvd & C St via 192,0,49,94,0,0
+10,Weekday,1485,Fisher's Landing Transit via 192,1,49,90,0,0
+10,Weekday,1423,Evergreen Blvd & C St via 192,0,49,94,0,0
+10,Weekday,1489,Fisher's Landing Transit via 192,1,49,90,0,0
+10,Weekday,1427,Evergreen Blvd & C St via 192,0,49,94,0,0
+10,Weekday,1493,Fisher's Landing Transit via 192,1,49,90,0,0
+10,Weekday,1460,Evergreen Blvd & C St via 164,0,49,93,0,0
+10,Weekday,1526,Fisher's Landing Transit via 164,1,49,87,0,0
+10,Weekday,1434,Evergreen Blvd & C St via 192,0,49,94,0,0
+10,Weekday,1500,Fisher's Landing Transit via 164,1,49,87,0,0
+10,Weekday,1465,Evergreen Blvd & C St via 164,0,49,93,0,0
+10,Weekday,1531,Fisher's Landing Transit via 164,1,49,87,0,0
+10,Weekday,1593,Evergreen Blvd & C St via 164,0,49,93,0,0
+10,Weekday,1594,Fisher's Landing Transit via 164,1,49,87,0,0
+10,Weekday,1595,Evergreen Blvd & C St via 164,0,49,93,0,0
+10,Weekday,1596,Fisher's Landing Transit via 164,1,49,87,0,0
+10,Weekday,1502,Fisher's Landing Transit via 164,1,50,88,0,0
+10,Weekday,1410,Evergreen Blvd & C St via 192,0,50,94,0,0
+10,Weekday,1476,Fisher's Landing Transit via 192,1,50,90,0,0
+10,Weekday,1414,Evergreen Blvd & C St via 192,0,50,94,0,0
+10,Weekday,1480,Fisher's Landing Transit via 192,1,50,90,0,0
+10,Weekday,1447,Evergreen Blvd & C St via 164,0,50,93,0,0
+10,Weekday,1512,Fisher's Landing Transit via 164,1,50,87,0,0
+10,Weekday,1422,Evergreen Blvd & C St via 192,0,50,94,0,0
+10,Weekday,1488,Fisher's Landing Transit via 192,1,50,90,0,0
+10,Weekday,1455,Evergreen Blvd & C St via 164,0,50,93,0,0
+10,Weekday,1521,Fisher's Landing Transit via 164,1,50,87,0,0
+10,Weekday,1430,Evergreen Blvd & C St via 192,0,50,94,0,0
+10,Weekday,1496,Fisher's Landing Transit via 192,1,50,90,0,0
+10,Weekday,1409,Evergreen Blvd & C St via 192,0,51,94,0,0
+10,Weekday,1475,Fisher's Landing Transit via 192,1,51,90,0,0
+10,Weekday,1442,Evergreen Blvd & C St via 164,0,51,93,0,0
+10,Weekday,1508,Fisher's Landing Transit via 164,1,51,87,0,0
+10,Weekday,1416,Evergreen Blvd & C St via 192,0,51,94,0,0
+10,Weekday,1482,Fisher's Landing Transit via 192,1,51,90,0,0
+10,Weekday,1449,Evergreen Blvd & C St via 164,0,51,93,0,0
+10,Weekday,1515,Fisher's Landing Transit via 164,1,51,87,0,0
+10,Weekday,1424,Evergreen Blvd & C St via 192,0,51,94,0,0
+10,Weekday,1490,Fisher's Landing Transit via 192,1,51,90,0,0
+10,Weekday,1428,Evergreen Blvd & C St via 192,0,51,94,0,0
+10,Weekday,1494,Fisher's Landing Transit via 192,1,51,90,0,0
+10,Weekday,1432,Evergreen Blvd & C St via 192,0,51,94,0,0
+10,Weekday,1498,Fisher's Landing Transit via 192,1,51,90,0,0
+10,Weekday,1464,Evergreen Blvd & C St via 164,0,51,93,0,0
+10,Weekday,1530,Fisher's Landing Transit via 164,1,51,87,0,0
+10,Weekday,1591,Evergreen Blvd & C St via 164,0,51,93,0,0
+10,Weekday,1592,Fisher's Landing Transit via 164,1,51,87,0,0
+10,Weekday,1467,Evergreen Blvd & C St via 164,0,51,93,0,0
+10,Weekday,1533,Fisher's Landing Transit via 164,1,51,87,0,0
+10,Weekday,1436,Evergreen Blvd & C St via 164,0,51,93,0,0
+10,Weekday,1472,Fisher's Landing Transit via 164,1,51,87,0,0
+10,Weekday,1439,Evergreen Blvd & C St via 164,0,52,93,0,0
+10,Weekday,1505,Fisher's Landing Transit via 164,1,52,87,0,0
+10,Weekday,1413,Evergreen Blvd & C St via 192,0,52,94,0,0
+10,Weekday,1479,Fisher's Landing Transit via 192,1,52,90,0,0
+10,Weekday,1417,Evergreen Blvd & C St via 192,0,52,94,0,0
+10,Weekday,1483,Fisher's Landing Transit via 192,1,52,90,0,0
+10,Weekday,1450,Evergreen Blvd & C St via 164,0,52,93,0,0
+10,Weekday,1516,Fisher's Landing Transit via 164,1,52,87,0,0
+10,Weekday,1425,Evergreen Blvd & C St via 192,0,52,94,0,0
+10,Weekday,1491,Fisher's Landing Transit via 192,1,52,90,0,0
+10,Weekday,1429,Evergreen Blvd & C St via 192,0,52,94,0,0
+10,Weekday,1495,Fisher's Landing Transit via 192,1,52,90,0,0
+10,Weekday,1462,Evergreen Blvd & C St via 164,0,52,93,0,0
+10,Weekday,1528,Fisher's Landing Transit via 164,1,52,87,0,0
+10,Weekday,1435,Evergreen Blvd & C St via 192,0,52,94,0,0
+10,Weekday,1501,Fisher's Landing Transit via 164,1,52,87,0,0
+10,Weekday,1466,Evergreen Blvd & C St via 164,0,52,93,0,0
+10,Weekday,1532,Fisher's Landing Transit via 164,1,52,87,0,0
+10,Weekday,1468,Evergreen Blvd & C St via 164,0,52,93,0,0
+10,Weekday,1471,Fisher's Landing Transit via 164,1,52,87,0,0
+10,Weekday,1421,Evergreen Blvd & C St via 192,0,53,94,0,0
+10,Weekday,1487,Fisher's Landing Transit via 192,1,53,90,0,0
+10,Weekday,1454,Evergreen Blvd & C St via 164,0,53,93,0,0
+10,Weekday,1520,Fisher's Landing Transit via 164,1,53,87,0,0
+10,Weekday,1458,Evergreen Blvd & C St via 164,0,53,93,0,0
+10,Weekday,1524,Fisher's Landing Transit via 164,1,53,87,0,0
+10,Weekday,1433,Evergreen Blvd & C St via 192,0,53,94,0,0
+10,Weekday,1499,Fisher's Landing Transit via 192,1,53,90,0,0
+11,Weekday,197,E 15th St & Broadway [wb,1,54,96,0,0
+11,Weekday,681,Fisher's Landing Transit,0,54,101,0,0
+11,Weekday,523,E 15th St & Broadway [wb,1,54,97,0,0
+11,Weekday,1976,Washington St & W 9th St,0,54,99,0,0
+11,Weekday,679,Fisher's Landing Transit,0,55,100,0,0
+11,Weekday,678,E 15th St & Broadway [wb,1,55,95,0,0
+11,Weekday,680,Fisher's Landing Transit,0,55,100,0,0
+12,Weekday,3158,BG/Yacolt,1,56,103,0,0
+12,Weekday,3160,Van Mall TC,0,56,102,0,0
+12,Weekday,3159,BG/Yacolt,1,57,103,0,0
+12,Weekday,3161,Van Mall TC,0,57,102,0,0
+13,Weekday,1700,City Center,1,58,105,0,0
+13,Weekday,1701,Van Mall TC,0,58,104,0,0
+13,Weekday,1691,City Center,1,58,105,0,0
+13,Weekday,1705,Van Mall TC,0,58,104,0,0
+13,Weekday,3226,City Center,1,58,105,0,0
+13,Weekday,3309,Van Mall TC,0,58,104,0,0
+13,Weekday,3232,City Center,1,58,105,0,0
+13,Weekday,3315,Van Mall TC,0,58,104,0,0
+13,Weekday,3239,City Center,1,58,105,0,0
+13,Weekday,3322,Van Mall TC,0,58,104,0,0
+13,Weekday,3246,City Center,1,58,105,0,0
+13,Weekday,3329,Van Mall TC,0,58,104,0,0
+13,Weekday,3253,City Center,1,58,105,0,0
+13,Weekday,3336,Van Mall TC,0,58,104,0,0
+13,Weekday,3260,City Center,1,58,105,0,0
+13,Weekday,3343,Van Mall TC,0,58,104,0,0
+13,Weekday,3267,City Center,1,58,105,0,0
+13,Weekday,3350,Van Mall TC,0,58,104,0,0
+13,Weekday,3274,City Center,1,58,105,0,0
+13,Weekday,3357,Van Mall TC,0,58,104,0,0
+13,Weekday,3281,City Center,1,58,105,0,0
+13,Weekday,3364,Van Mall TC,0,58,104,0,0
+13,Weekday,3288,City Center,1,58,105,0,0
+13,Weekday,3371,Van Mall TC,0,58,104,0,0
+13,Weekday,3295,City Center,1,58,105,0,0
+13,Weekday,3378,Van Mall TC,0,58,104,0,0
+13,Weekday,3300,City Center,1,58,105,0,0
+13,Weekday,1713,Van Mall TC,0,58,104,0,0
+13,Weekday,3306,City Center,1,58,105,0,0
+13,Weekday,1719,Van Mall TC,0,58,104,0,0
+13,Weekday,1688,City Center,1,59,105,0,0
+13,Weekday,1702,Van Mall TC,0,59,104,0,0
+13,Weekday,1692,City Center,1,59,105,0,0
+13,Weekday,1706,Van Mall TC,0,59,104,0,0
+13,Weekday,3228,City Center,1,59,105,0,0
+13,Weekday,3311,Van Mall TC,0,59,104,0,0
+13,Weekday,3235,City Center,1,59,105,0,0
+13,Weekday,3318,Van Mall TC,0,59,104,0,0
+13,Weekday,3242,City Center,1,59,105,0,0
+13,Weekday,3325,Van Mall TC,0,59,104,0,0
+13,Weekday,3249,City Center,1,59,105,0,0
+13,Weekday,3332,Van Mall TC,0,59,104,0,0
+13,Weekday,3256,City Center,1,59,105,0,0
+13,Weekday,3339,Van Mall TC,0,59,104,0,0
+13,Weekday,3263,City Center,1,59,105,0,0
+13,Weekday,3346,Van Mall TC,0,59,104,0,0
+13,Weekday,3270,City Center,1,59,105,0,0
+13,Weekday,3353,Van Mall TC,0,59,104,0,0
+13,Weekday,3277,City Center,1,59,105,0,0
+13,Weekday,3360,Van Mall TC,0,59,104,0,0
+13,Weekday,3284,City Center,1,59,105,0,0
+13,Weekday,3367,Van Mall TC,0,59,104,0,0
+13,Weekday,3291,City Center,1,59,105,0,0
+13,Weekday,3374,Van Mall TC,0,59,104,0,0
+13,Weekday,3297,City Center,1,59,105,0,0
+13,Weekday,1710,Van Mall TC,0,59,104,0,0
+13,Weekday,3302,City Center,1,59,105,0,0
+13,Weekday,1715,Van Mall TC,0,59,104,0,0
+13,Weekday,1689,City Center,1,60,105,0,0
+13,Weekday,1703,Van Mall TC,0,60,104,0,0
+13,Weekday,1693,City Center,1,60,105,0,0
+13,Weekday,1707,Van Mall TC,0,60,104,0,0
+13,Weekday,3229,City Center,1,60,105,0,0
+13,Weekday,3312,Van Mall TC,0,60,104,0,0
+13,Weekday,3236,City Center,1,60,105,0,0
+13,Weekday,3319,Van Mall TC,0,60,104,0,0
+13,Weekday,3243,City Center,1,60,105,0,0
+13,Weekday,3326,Van Mall TC,0,60,104,0,0
+13,Weekday,3250,City Center,1,60,105,0,0
+13,Weekday,3333,Van Mall TC,0,60,104,0,0
+13,Weekday,3257,City Center,1,60,105,0,0
+13,Weekday,3340,Van Mall TC,0,60,104,0,0
+13,Weekday,3264,City Center,1,60,105,0,0
+13,Weekday,3347,Van Mall TC,0,60,104,0,0
+13,Weekday,3271,City Center,1,60,105,0,0
+13,Weekday,3354,Van Mall TC,0,60,104,0,0
+13,Weekday,3278,City Center,1,60,105,0,0
+13,Weekday,3361,Van Mall TC,0,60,104,0,0
+13,Weekday,3285,City Center,1,60,105,0,0
+13,Weekday,3368,Van Mall TC,0,60,104,0,0
+13,Weekday,3292,City Center,1,60,105,0,0
+13,Weekday,3375,Van Mall TC,0,60,104,0,0
+13,Weekday,3298,City Center,1,60,105,0,0
+13,Weekday,1711,Van Mall TC,0,60,104,0,0
+13,Weekday,3303,City Center,1,60,105,0,0
+13,Weekday,1716,Van Mall TC,0,60,104,0,0
+13,Weekday,3307,City Center,1,60,105,0,0
+13,Weekday,1720,Van Mall TC,0,60,104,0,0
+13,Weekday,1690,City Center,1,61,105,0,0
+13,Weekday,1704,Van Mall TC,0,61,104,0,0
+13,Weekday,3225,City Center,1,61,105,0,0
+13,Weekday,3308,Van Mall TC,0,61,104,0,0
+13,Weekday,3231,City Center,1,61,105,0,0
+13,Weekday,3314,Van Mall TC,0,61,104,0,0
+13,Weekday,3238,City Center,1,61,105,0,0
+13,Weekday,3321,Van Mall TC,0,61,104,0,0
+13,Weekday,3245,City Center,1,61,105,0,0
+13,Weekday,3328,Van Mall TC,0,61,104,0,0
+13,Weekday,3252,City Center,1,61,105,0,0
+13,Weekday,3335,Van Mall TC,0,61,104,0,0
+13,Weekday,3259,City Center,1,61,105,0,0
+13,Weekday,3342,Van Mall TC,0,61,104,0,0
+13,Weekday,3266,City Center,1,61,105,0,0
+13,Weekday,3349,Van Mall TC,0,61,104,0,0
+13,Weekday,3273,City Center,1,61,105,0,0
+13,Weekday,3356,Van Mall TC,0,61,104,0,0
+13,Weekday,3280,City Center,1,61,105,0,0
+13,Weekday,3363,Van Mall TC,0,61,104,0,0
+13,Weekday,3287,City Center,1,61,105,0,0
+13,Weekday,3370,Van Mall TC,0,61,104,0,0
+13,Weekday,3294,City Center,1,61,105,0,0
+13,Weekday,3377,Van Mall TC,0,61,104,0,0
+13,Weekday,3299,City Center,1,61,105,0,0
+13,Weekday,1712,Van Mall TC,0,61,104,0,0
+13,Weekday,3304,City Center,1,61,105,0,0
+13,Weekday,1717,Van Mall TC,0,61,104,0,0
+13,Weekday,1694,City Center,1,61,105,0,0
+13,Weekday,1721,Van Mall TC,0,61,104,0,0
+13,Weekday,1696,City Center,1,61,105,0,0
+13,Weekday,1723,Van Mall TC,0,61,104,0,0
+13,Weekday,1698,City Center,1,61,105,0,0
+13,Weekday,1725,Van Mall TC,0,61,104,0,0
+13,Weekday,3224,City Center,1,62,105,0,0
+13,Weekday,1708,Van Mall TC,0,62,104,0,0
+13,Weekday,3230,City Center,1,62,105,0,0
+13,Weekday,3313,Van Mall TC,0,62,104,0,0
+13,Weekday,3237,City Center,1,62,105,0,0
+13,Weekday,3320,Van Mall TC,0,62,104,0,0
+13,Weekday,3244,City Center,1,62,105,0,0
+13,Weekday,3327,Van Mall TC,0,62,104,0,0
+13,Weekday,3251,City Center,1,62,105,0,0
+13,Weekday,3334,Van Mall TC,0,62,104,0,0
+13,Weekday,3258,City Center,1,62,105,0,0
+13,Weekday,3341,Van Mall TC,0,62,104,0,0
+13,Weekday,3265,City Center,1,62,105,0,0
+13,Weekday,3348,Van Mall TC,0,62,104,0,0
+13,Weekday,3272,City Center,1,62,105,0,0
+13,Weekday,3355,Van Mall TC,0,62,104,0,0
+13,Weekday,3279,City Center,1,62,105,0,0
+13,Weekday,3362,Van Mall TC,0,62,104,0,0
+13,Weekday,3286,City Center,1,62,105,0,0
+13,Weekday,3369,Van Mall TC,0,62,104,0,0
+13,Weekday,3293,City Center,1,62,105,0,0
+13,Weekday,3376,Van Mall TC,0,62,104,0,0
+13,Weekday,3227,City Center,1,63,105,0,0
+13,Weekday,3310,Van Mall TC,0,63,104,0,0
+13,Weekday,3234,City Center,1,63,105,0,0
+13,Weekday,3317,Van Mall TC,0,63,104,0,0
+13,Weekday,3241,City Center,1,63,105,0,0
+13,Weekday,3324,Van Mall TC,0,63,104,0,0
+13,Weekday,3248,City Center,1,63,105,0,0
+13,Weekday,3331,Van Mall TC,0,63,104,0,0
+13,Weekday,3255,City Center,1,63,105,0,0
+13,Weekday,3338,Van Mall TC,0,63,104,0,0
+13,Weekday,3262,City Center,1,63,105,0,0
+13,Weekday,3345,Van Mall TC,0,63,104,0,0
+13,Weekday,3269,City Center,1,63,105,0,0
+13,Weekday,3352,Van Mall TC,0,63,104,0,0
+13,Weekday,3276,City Center,1,63,105,0,0
+13,Weekday,3359,Van Mall TC,0,63,104,0,0
+13,Weekday,3283,City Center,1,63,105,0,0
+13,Weekday,3366,Van Mall TC,0,63,104,0,0
+13,Weekday,3290,City Center,1,63,105,0,0
+13,Weekday,3373,Van Mall TC,0,63,104,0,0
+13,Weekday,3233,City Center,1,64,105,0,0
+13,Weekday,3316,Van Mall TC,0,64,104,0,0
+13,Weekday,3240,City Center,1,64,105,0,0
+13,Weekday,3323,Van Mall TC,0,64,104,0,0
+13,Weekday,3247,City Center,1,64,105,0,0
+13,Weekday,3330,Van Mall TC,0,64,104,0,0
+13,Weekday,3254,City Center,1,64,105,0,0
+13,Weekday,3337,Van Mall TC,0,64,104,0,0
+13,Weekday,3261,City Center,1,64,105,0,0
+13,Weekday,3344,Van Mall TC,0,64,104,0,0
+13,Weekday,3268,City Center,1,64,105,0,0
+13,Weekday,3351,Van Mall TC,0,64,104,0,0
+13,Weekday,3275,City Center,1,64,105,0,0
+13,Weekday,3358,Van Mall TC,0,64,104,0,0
+13,Weekday,3282,City Center,1,64,105,0,0
+13,Weekday,3365,Van Mall TC,0,64,104,0,0
+13,Weekday,3289,City Center,1,64,105,0,0
+13,Weekday,3372,Van Mall TC,0,64,104,0,0
+13,Weekday,3296,City Center,1,64,105,0,0
+13,Weekday,1709,Van Mall TC,0,64,104,0,0
+13,Weekday,3301,City Center,1,64,105,0,0
+13,Weekday,1714,Van Mall TC,0,64,104,0,0
+13,Weekday,3305,City Center,1,64,105,0,0
+13,Weekday,1718,Van Mall TC,0,64,104,0,0
+13,Weekday,1695,City Center,1,64,105,0,0
+13,Weekday,1722,Van Mall TC,0,64,104,0,0
+13,Weekday,1697,City Center,1,64,105,0,0
+13,Weekday,1724,Van Mall TC,0,64,104,0,0
+13,Weekday,1699,City Center,1,64,105,0,0
+13,Weekday,1726,Van Mall TC,0,64,104,0,0
+14,Weekday,1084,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1015,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1085,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1016,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1086,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1017,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1087,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1019,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1090,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1022,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1093,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1025,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1096,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1028,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1099,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1031,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1102,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1033,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1104,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1035,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1106,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1037,City Center via Jantzen,0,65,109,0,0
+14,Weekday,1108,Delta Park No Jantzen,1,65,108,0,0
+14,Weekday,1039,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1110,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1041,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1112,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1043,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1114,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1045,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1116,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1047,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1118,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1050,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1121,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1053,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1124,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1056,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1127,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1059,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1130,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1062,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1133,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1065,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1136,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1067,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1138,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1069,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1139,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1071,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1141,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1073,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1143,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1075,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1145,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1077,City Center No Jantzen,0,65,110,0,0
+14,Weekday,1147,Delta Park via Jantzen,1,65,106,0,0
+14,Weekday,1988,City Center No Jantzen,0,65,110,0,0
+14,Weekday,4660,Broadway & 12th St fs,1,65,107,0,0
+14,Weekday,2883,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,2884,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1088,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,1020,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1091,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,1023,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1094,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,1026,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1097,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,1029,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1100,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,1032,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1103,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,1034,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1105,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,1036,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1107,Delta Park No Jantzen,1,66,108,0,0
+14,Weekday,1038,City Center via Jantzen,0,66,109,0,0
+14,Weekday,1109,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1040,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1111,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1042,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1113,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1044,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1115,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1046,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1117,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1049,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1120,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1052,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1123,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1055,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1126,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1058,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1129,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1061,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1132,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1064,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1135,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1066,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1137,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1068,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1987,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1070,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1140,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1072,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1142,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1074,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1144,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1076,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1146,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1078,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1148,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1079,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1149,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1081,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1150,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1080,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1151,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1082,City Center No Jantzen,0,66,110,0,0
+14,Weekday,1152,Delta Park via Jantzen,1,66,106,0,0
+14,Weekday,1083,City Center No Jantzen,0,66,110,0,0
+14,Weekday,3580,Broadway & 12th St fs,1,66,107,0,0
+14,Weekday,1018,City Center via Jantzen,0,67,109,0,0
+14,Weekday,1089,Delta Park No Jantzen,1,67,108,0,0
+14,Weekday,1021,City Center via Jantzen,0,67,109,0,0
+14,Weekday,1092,Delta Park No Jantzen,1,67,108,0,0
+14,Weekday,1024,City Center via Jantzen,0,67,109,0,0
+14,Weekday,1095,Delta Park No Jantzen,1,67,108,0,0
+14,Weekday,1027,City Center via Jantzen,0,67,109,0,0
+14,Weekday,1098,Delta Park No Jantzen,1,67,108,0,0
+14,Weekday,1030,City Center via Jantzen,0,67,109,0,0
+14,Weekday,1101,Delta Park No Jantzen,1,67,108,0,0
+14,Weekday,1048,City Center No Jantzen,0,68,110,0,0
+14,Weekday,1119,Delta Park via Jantzen,1,68,106,0,0
+14,Weekday,1051,City Center No Jantzen,0,68,110,0,0
+14,Weekday,1122,Delta Park via Jantzen,1,68,106,0,0
+14,Weekday,1054,City Center No Jantzen,0,68,110,0,0
+14,Weekday,1125,Delta Park via Jantzen,1,68,106,0,0
+14,Weekday,1057,City Center No Jantzen,0,68,110,0,0
+14,Weekday,1128,Delta Park via Jantzen,1,68,106,0,0
+14,Weekday,1060,City Center No Jantzen,0,68,110,0,0
+14,Weekday,1131,Delta Park via Jantzen,1,68,106,0,0
+14,Weekday,1063,City Center No Jantzen,0,68,110,0,0
+14,Weekday,1134,Delta Park via Jantzen,1,68,106,0,0
+15,Weekday,994,Parkrose/Sumner Transit,1,69,111,0,0
+15,Weekday,1012,Fisher's Landing Transit,0,69,112,0,0
+15,Weekday,996,Parkrose/Sumner Transit,1,69,111,0,0
+15,Weekday,1014,Fisher's Landing Transit,0,69,112,0,0
+15,Weekday,224,Parkrose/Sumner Transit,1,69,111,0,0
+15,Weekday,227,Fisher's Landing Transit,0,69,112,0,0
+15,Weekday,397,Parkrose/Sumner Transit,1,69,111,0,0
+15,Weekday,407,Fisher's Landing Transit,0,69,112,0,0
+15,Weekday,399,Parkrose/Sumner Transit,1,69,111,0,0
+15,Weekday,409,Fisher's Landing Transit,0,69,112,0,0
+15,Weekday,401,Parkrose/Sumner Transit,1,69,111,0,0
+15,Weekday,411,Fisher's Landing Transit,0,69,112,0,0
+15,Weekday,403,Parkrose/Sumner Transit,1,69,111,0,0
+15,Weekday,413,Fisher's Landing Transit,0,69,112,0,0
+15,Weekday,405,Parkrose/Sumner Transit,1,69,111,0,0
+15,Weekday,415,Fisher's Landing Transit,0,69,112,0,0
+15,Weekday,995,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,1013,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,223,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,226,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,396,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,406,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,398,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,408,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,400,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,410,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,402,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,412,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,404,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,414,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,198,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,228,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,199,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,211,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,200,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,212,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,201,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,213,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,202,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,214,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,203,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,215,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,204,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,216,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,205,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,217,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,206,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,218,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,207,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,219,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,208,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,220,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,209,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,997,Fisher's Landing Transit,0,70,112,0,0
+16,Weekday,3735,Portland International A,1,70,113,0,0
+16,Weekday,3739,Fisher's Landing Transit,0,70,114,0,0
+15,Weekday,417,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,3732,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,420,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,1002,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,423,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,1005,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,426,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,1008,Fisher's Landing Transit,0,70,112,0,0
+15,Weekday,225,Parkrose/Sumner Transit,1,70,111,0,0
+15,Weekday,1011,Fisher's Landing Transit,0,70,112,0,0
+16,Weekday,3733,Portland International A,1,71,113,0,0
+16,Weekday,3737,Fisher's Landing Transit,0,71,114,0,0
+15,Weekday,210,Parkrose/Sumner Transit,1,71,111,0,0
+15,Weekday,998,Fisher's Landing Transit,0,71,112,0,0
+16,Weekday,3736,Portland International A,1,71,113,0,0
+16,Weekday,3740,Fisher's Landing Transit,0,71,114,0,0
+15,Weekday,419,Parkrose/Sumner Transit,1,71,111,0,0
+15,Weekday,1001,Fisher's Landing Transit,0,71,112,0,0
+15,Weekday,422,Parkrose/Sumner Transit,1,71,111,0,0
+15,Weekday,1004,Fisher's Landing Transit,0,71,112,0,0
+15,Weekday,425,Parkrose/Sumner Transit,1,71,111,0,0
+15,Weekday,1007,Fisher's Landing Transit,0,71,112,0,0
+15,Weekday,428,Parkrose/Sumner Transit,1,71,111,0,0
+15,Weekday,1010,Fisher's Landing Transit,0,71,112,0,0
+16,Weekday,3734,Portland International A,1,72,113,0,0
+16,Weekday,3738,Fisher's Landing Transit,0,72,114,0,0
+15,Weekday,416,Parkrose/Sumner Transit,1,72,111,0,0
+15,Weekday,999,Fisher's Landing Transit,0,72,112,0,0
+15,Weekday,418,Parkrose/Sumner Transit,1,72,111,0,0
+15,Weekday,1000,Fisher's Landing Transit,0,72,112,0,0
+15,Weekday,421,Parkrose/Sumner Transit,1,72,111,0,0
+15,Weekday,1003,Fisher's Landing Transit,0,72,112,0,0
+15,Weekday,424,Parkrose/Sumner Transit,1,72,111,0,0
+15,Weekday,1006,Fisher's Landing Transit,0,72,112,0,0
+15,Weekday,427,Parkrose/Sumner Transit,1,72,111,0,0
+15,Weekday,1009,Fisher's Landing Transit,0,72,112,0,0
+15,Weekday,1980,Parkrose/Sumner Transit,1,72,111,0,0
+15,Weekday,1983,Fisher's Landing Transit,0,72,112,0,0
+15,Weekday,1982,Parkrose/Sumner Transit,1,72,111,0,0
+15,Weekday,1984,Fisher's Landing Transit,0,72,112,0,0
+15,Weekday,1981,Parkrose/Sumner Transit,1,72,111,0,0
+15,Weekday,1985,Fisher's Landing Transit,0,72,112,0,0
+16,Weekday,3741,Portland International A,1,73,113,0,0
+16,Weekday,3745,Fisher's Landing Transit,0,73,114,0,0
+16,Weekday,3742,Portland International A,1,73,113,0,0
+16,Weekday,3746,Fisher's Landing Transit,0,73,114,0,0
+16,Weekday,3743,Portland International A,1,73,113,0,0
+16,Weekday,3747,Fisher's Landing Transit,0,73,114,0,0
+16,Weekday,3744,Portland International A,1,73,113,0,0
+16,Weekday,3748,Fisher's Landing Transit,0,73,114,0,0
+17,Weekday,3875,Broadway & Evergreen Blv,1,74,116,0,0
+17,Weekday,3921,99th Street TC,0,74,115,0,0
+17,Weekday,3878,Broadway & Evergreen Blv,1,74,116,0,0
+17,Weekday,3926,99th Street TC,0,74,115,0,0
+17,Weekday,3884,Broadway & Evergreen Blv,1,74,116,0,0
+17,Weekday,3876,Broadway & Evergreen Blv,1,75,116,0,0
+17,Weekday,3922,99th Street TC,0,75,115,0,0
+17,Weekday,3880,Broadway & Evergreen Blv,1,75,116,0,0
+17,Weekday,3928,99th Street TC,0,75,115,0,0
+17,Weekday,3923,99th Street TC,0,76,115,0,0
+17,Weekday,3881,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3929,99th Street TC,0,76,115,0,0
+17,Weekday,3886,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3933,99th Street TC,0,76,115,0,0
+17,Weekday,3889,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3936,99th Street TC,0,76,115,0,0
+17,Weekday,3892,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3939,99th Street TC,0,76,115,0,0
+17,Weekday,3895,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3942,99th Street TC,0,76,115,0,0
+17,Weekday,3899,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3947,99th Street TC,0,76,115,0,0
+17,Weekday,3905,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3953,99th Street TC,0,76,115,0,0
+17,Weekday,3910,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3958,99th Street TC,0,76,115,0,0
+17,Weekday,3913,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3961,99th Street TC,0,76,115,0,0
+17,Weekday,3916,Broadway & Evergreen Blv,1,76,116,0,0
+17,Weekday,3964,99th Street TC,0,76,115,0,0
+17,Weekday,3920,Broadway & Evergreen Blv,1,77,116,0,0
+17,Weekday,3924,99th Street TC,0,77,115,0,0
+17,Weekday,3882,Broadway & Evergreen Blv,1,77,116,0,0
+17,Weekday,3930,99th Street TC,0,77,115,0,0
+17,Weekday,3877,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3925,99th Street TC,0,78,115,0,0
+17,Weekday,3883,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3931,99th Street TC,0,78,115,0,0
+17,Weekday,3887,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3934,99th Street TC,0,78,115,0,0
+17,Weekday,3890,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3937,99th Street TC,0,78,115,0,0
+17,Weekday,3893,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3940,99th Street TC,0,78,115,0,0
+17,Weekday,3896,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3943,99th Street TC,0,78,115,0,0
+17,Weekday,3901,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3949,99th Street TC,0,78,115,0,0
+17,Weekday,3907,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3955,99th Street TC,0,78,115,0,0
+17,Weekday,3911,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3959,99th Street TC,0,78,115,0,0
+17,Weekday,3914,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3962,99th Street TC,0,78,115,0,0
+17,Weekday,3917,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3965,99th Street TC,0,78,115,0,0
+17,Weekday,3919,Broadway & Evergreen Blv,1,78,116,0,0
+17,Weekday,3967,99th Street TC,0,78,115,0,0
+17,Weekday,3879,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3927,99th Street TC,0,79,115,0,0
+17,Weekday,3885,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3932,99th Street TC,0,79,115,0,0
+17,Weekday,3888,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3935,99th Street TC,0,79,115,0,0
+17,Weekday,3891,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3938,99th Street TC,0,79,115,0,0
+17,Weekday,3894,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3941,99th Street TC,0,79,115,0,0
+17,Weekday,3897,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3945,99th Street TC,0,79,115,0,0
+17,Weekday,3903,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3951,99th Street TC,0,79,115,0,0
+17,Weekday,3909,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3957,99th Street TC,0,79,115,0,0
+17,Weekday,3912,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3960,99th Street TC,0,79,115,0,0
+17,Weekday,3915,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3963,99th Street TC,0,79,115,0,0
+17,Weekday,3918,Broadway & Evergreen Blv,1,79,116,0,0
+17,Weekday,3966,99th Street TC,0,79,115,0,0
+17,Weekday,3944,99th Street TC,0,80,115,0,0
+17,Weekday,3902,Broadway & Evergreen Blv,1,80,116,0,0
+17,Weekday,3950,99th Street TC,0,80,115,0,0
+17,Weekday,3908,Broadway & Evergreen Blv,1,80,116,0,0
+17,Weekday,3956,99th Street TC,0,80,115,0,0
+17,Weekday,3898,Broadway & Evergreen Blv,1,81,116,0,0
+17,Weekday,3946,99th Street TC,0,81,115,0,0
+17,Weekday,3904,Broadway & Evergreen Blv,1,81,116,0,0
+17,Weekday,3952,99th Street TC,0,81,115,0,0
+17,Weekday,3900,Broadway & Evergreen Blv,1,82,116,0,0
+17,Weekday,3948,99th Street TC,0,82,115,0,0
+17,Weekday,3906,Broadway & Evergreen Blv,1,82,116,0,0
+17,Weekday,3954,99th Street TC,0,82,115,0,0
+18,Weekday,948,Orchards,1,83,117,0,0
+18,Weekday,950,Van Mall TC,0,83,118,0,0
+18,Weekday,4174,Orchards,1,83,117,0,0
+18,Weekday,4196,Van Mall TC,0,83,118,0,0
+18,Weekday,4176,Orchards,1,83,117,0,0
+18,Weekday,4198,Van Mall TC,0,83,118,0,0
+18,Weekday,4178,Orchards,1,83,117,0,0
+18,Weekday,4200,Van Mall TC,0,83,118,0,0
+18,Weekday,4195,Orchards,1,83,117,0,0
+18,Weekday,4202,Van Mall TC,0,83,118,0,0
+18,Weekday,4180,Orchards,1,83,117,0,0
+18,Weekday,4203,Van Mall TC,0,83,118,0,0
+18,Weekday,4181,Orchards,1,83,117,0,0
+18,Weekday,4204,Van Mall TC,0,83,118,0,0
+18,Weekday,4182,Orchards,1,83,117,0,0
+18,Weekday,4205,Van Mall TC,0,83,118,0,0
+18,Weekday,4183,Orchards,1,83,117,0,0
+18,Weekday,4206,Van Mall TC,0,83,118,0,0
+18,Weekday,4184,Orchards,1,83,117,0,0
+18,Weekday,4207,Van Mall TC,0,83,118,0,0
+18,Weekday,4185,Orchards,1,83,117,0,0
+18,Weekday,4208,Van Mall TC,0,83,118,0,0
+18,Weekday,4187,Orchards,1,83,117,0,0
+18,Weekday,4210,Van Mall TC,0,83,118,0,0
+18,Weekday,4189,Orchards,1,83,117,0,0
+18,Weekday,4212,Van Mall TC,0,83,118,0,0
+18,Weekday,4191,Orchards,1,83,117,0,0
+18,Weekday,4214,Van Mall TC,0,83,118,0,0
+18,Weekday,4193,Orchards,1,83,117,0,0
+18,Weekday,4216,Van Mall TC,0,83,118,0,0
+18,Weekday,4194,Orchards,1,83,117,0,0
+18,Weekday,4217,Van Mall TC,0,83,118,0,0
+18,Weekday,949,Orchards,1,83,117,0,0
+18,Weekday,951,Van Mall TC,0,83,118,0,0
+18,Weekday,4175,Orchards,1,84,117,0,0
+18,Weekday,4197,Van Mall TC,0,84,118,0,0
+18,Weekday,4177,Orchards,1,84,117,0,0
+18,Weekday,4199,Van Mall TC,0,84,118,0,0
+18,Weekday,4179,Orchards,1,84,117,0,0
+18,Weekday,4201,Van Mall TC,0,84,118,0,0
+18,Weekday,4186,Orchards,1,85,117,0,0
+18,Weekday,4209,Van Mall TC,0,85,118,0,0
+18,Weekday,4188,Orchards,1,85,117,0,0
+18,Weekday,4211,Van Mall TC,0,85,118,0,0
+18,Weekday,4190,Orchards,1,85,117,0,0
+18,Weekday,4213,Van Mall TC,0,85,118,0,0
+18,Weekday,4192,Orchards,1,85,117,0,0
+18,Weekday,4215,Van Mall TC,0,85,118,0,0
+19,Weekday,901,East Fourth Plain,1,86,119,0,0
+19,Weekday,903,Van Mall TC,0,86,120,0,0
+19,Weekday,4266,East Fourth Plain,1,86,119,0,0
+19,Weekday,904,Van Mall TC,0,86,120,0,0
+19,Weekday,4267,East Fourth Plain,1,86,119,0,0
+19,Weekday,4281,Van Mall TC,0,86,120,0,0
+19,Weekday,4268,East Fourth Plain,1,86,119,0,0
+19,Weekday,4282,Van Mall TC,0,86,120,0,0
+19,Weekday,4269,East Fourth Plain,1,86,119,0,0
+19,Weekday,4283,Van Mall TC,0,86,120,0,0
+19,Weekday,4270,East Fourth Plain,1,86,119,0,0
+19,Weekday,4284,Van Mall TC,0,86,120,0,0
+19,Weekday,4271,East Fourth Plain,1,86,119,0,0
+19,Weekday,4285,Van Mall TC,0,86,120,0,0
+19,Weekday,4272,East Fourth Plain,1,86,119,0,0
+19,Weekday,4286,Van Mall TC,0,86,120,0,0
+19,Weekday,4273,East Fourth Plain,1,86,119,0,0
+19,Weekday,4287,Van Mall TC,0,86,120,0,0
+19,Weekday,4274,East Fourth Plain,1,86,119,0,0
+19,Weekday,4291,Van Mall TC,0,86,120,0,0
+19,Weekday,4275,East Fourth Plain,1,86,119,0,0
+19,Weekday,4288,Van Mall TC,0,86,120,0,0
+19,Weekday,4276,East Fourth Plain,1,86,119,0,0
+19,Weekday,4289,Van Mall TC,0,86,120,0,0
+19,Weekday,4277,East Fourth Plain,1,86,119,0,0
+19,Weekday,4290,Van Mall TC,0,86,120,0,0
+19,Weekday,4278,East Fourth Plain,1,86,119,0,0
+19,Weekday,4292,Van Mall TC,0,86,120,0,0
+19,Weekday,4279,East Fourth Plain,1,86,119,0,0
+19,Weekday,4293,Van Mall TC,0,86,120,0,0
+19,Weekday,4280,East Fourth Plain,1,86,119,0,0
+19,Weekday,4294,Van Mall TC,0,86,120,0,0
+19,Weekday,902,East Fourth Plain,1,86,119,0,0
+19,Weekday,905,Van Mall TC,0,86,120,0,0
+20,Weekday,4351,Van Mall TC,1,87,121,0,0
+20,Weekday,4329,99th Street TC,0,87,122,0,0
+5,Weekday,670,NE 29th Ave & WSUV Trail,1,87,69,0,0
+5,Weekday,672,99th Street TC,0,87,70,0,0
+20,Weekday,4354,Van Mall TC,1,87,121,0,0
+20,Weekday,4332,99th Street TC,0,87,122,0,0
+5,Weekday,3001,NE 29th Ave & WSUV Trail,1,87,69,0,0
+5,Weekday,3020,99th Street TC,0,87,70,0,0
+20,Weekday,4358,Van Mall TC,1,87,121,0,0
+20,Weekday,4336,99th Street TC,0,87,122,0,0
+5,Weekday,3005,NE 29th Ave & WSUV Trail,1,87,69,0,0
+5,Weekday,3024,99th Street TC,0,87,70,0,0
+20,Weekday,4360,Van Mall TC,1,87,121,0,0
+20,Weekday,4338,99th Street TC,0,87,122,0,0
+5,Weekday,3007,NE 29th Ave & WSUV Trail,1,87,69,0,0
+5,Weekday,3026,99th Street TC,0,87,70,0,0
+20,Weekday,4362,Van Mall TC,1,87,121,0,0
+20,Weekday,4340,99th Street TC,0,87,122,0,0
+5,Weekday,3009,NE 29th Ave & WSUV Trail,1,87,69,0,0
+5,Weekday,3028,99th Street TC,0,87,70,0,0
+20,Weekday,4364,Van Mall TC,1,87,121,0,0
+20,Weekday,4342,99th Street TC,0,87,122,0,0
+5,Weekday,3013,NE 29th Ave & WSUV Trail,1,87,69,0,0
+5,Weekday,3032,99th Street TC,0,87,70,0,0
+20,Weekday,4368,Van Mall TC,1,87,121,0,0
+20,Weekday,4346,99th Street TC,0,87,122,0,0
+5,Weekday,3016,NE 29th Ave & WSUV Trail,1,87,69,0,0
+5,Weekday,3035,99th Street TC,0,87,70,0,0
+20,Weekday,4371,Van Mall TC,1,87,121,0,0
+20,Weekday,4349,99th Street TC,0,87,122,0,0
+5,Weekday,3018,NE 29th Ave & WSUV Trail,1,87,69,0,0
+5,Weekday,3037,99th Street TC,0,87,70,0,0
+20,Weekday,4373,Van Mall TC,1,87,121,0,0
+20,Weekday,4352,Van Mall TC,1,88,121,0,0
+20,Weekday,4330,99th Street TC,0,88,122,0,0
+5,Weekday,671,NE 29th Ave & WSUV Trail,1,88,69,0,0
+5,Weekday,673,99th Street TC,0,88,70,0,0
+20,Weekday,4356,Van Mall TC,1,88,121,0,0
+20,Weekday,4334,99th Street TC,0,88,122,0,0
+5,Weekday,3003,NE 29th Ave & WSUV Trail,1,88,69,0,0
+5,Weekday,3022,99th Street TC,0,88,70,0,0
+20,Weekday,4359,Van Mall TC,1,88,121,0,0
+20,Weekday,4337,99th Street TC,0,88,122,0,0
+5,Weekday,3006,NE 29th Ave & WSUV Trail,1,88,69,0,0
+5,Weekday,3025,99th Street TC,0,88,70,0,0
+20,Weekday,4361,Van Mall TC,1,88,121,0,0
+20,Weekday,4339,99th Street TC,0,88,122,0,0
+5,Weekday,3008,NE 29th Ave & WSUV Trail,1,88,69,0,0
+5,Weekday,3027,99th Street TC,0,88,70,0,0
+20,Weekday,4363,Van Mall TC,1,88,121,0,0
+20,Weekday,4341,99th Street TC,0,88,122,0,0
+5,Weekday,3011,NE 29th Ave & WSUV Trail,1,88,69,0,0
+5,Weekday,3030,99th Street TC,0,88,70,0,0
+20,Weekday,4366,Van Mall TC,1,88,121,0,0
+20,Weekday,4344,99th Street TC,0,88,122,0,0
+5,Weekday,3015,NE 29th Ave & WSUV Trail,1,88,69,0,0
+5,Weekday,3034,99th Street TC,0,88,70,0,0
+20,Weekday,4370,Van Mall TC,1,88,121,0,0
+20,Weekday,4348,99th Street TC,0,88,122,0,0
+5,Weekday,3017,NE 29th Ave & WSUV Trail,1,88,69,0,0
+5,Weekday,3036,99th Street TC,0,88,70,0,0
+20,Weekday,4372,Van Mall TC,1,88,121,0,0
+20,Weekday,4350,99th Street TC,0,88,122,0,0
+5,Weekday,3019,NE 29th Ave & WSUV Trail,1,88,69,0,0
+5,Weekday,3038,99th Street TC,0,88,70,0,0
+20,Weekday,4374,Van Mall TC,1,88,121,0,0
+20,Weekday,4353,Van Mall TC,1,89,121,0,0
+20,Weekday,4331,99th Street TC,0,89,122,0,0
+5,Weekday,3000,NE 29th Ave & WSUV Trail,1,89,69,0,0
+5,Weekday,674,99th Street TC,0,89,70,0,0
+20,Weekday,4357,Van Mall TC,1,89,121,0,0
+20,Weekday,4335,99th Street TC,0,89,122,0,0
+5,Weekday,3004,NE 29th Ave & WSUV Trail,1,89,69,0,0
+5,Weekday,3023,99th Street TC,0,89,70,0,0
+20,Weekday,4355,Van Mall TC,1,90,121,0,0
+20,Weekday,4333,99th Street TC,0,90,122,0,0
+5,Weekday,3002,NE 29th Ave & WSUV Trail,1,90,69,0,0
+5,Weekday,3021,99th Street TC,0,90,70,0,0
+5,Weekday,3010,NE 29th Ave & WSUV Trail,1,91,69,0,0
+5,Weekday,3029,99th Street TC,0,91,70,0,0
+20,Weekday,4365,Van Mall TC,1,91,121,0,0
+20,Weekday,4343,99th Street TC,0,91,122,0,0
+5,Weekday,3014,NE 29th Ave & WSUV Trail,1,91,69,0,0
+5,Weekday,3033,99th Street TC,0,91,70,0,0
+20,Weekday,4369,Van Mall TC,1,91,121,0,0
+20,Weekday,4347,99th Street TC,0,91,122,0,0
+5,Weekday,3012,NE 29th Ave & WSUV Trail,1,92,69,0,0
+5,Weekday,3031,99th Street TC,0,92,70,0,0
+20,Weekday,4367,Van Mall TC,1,92,121,0,0
+20,Weekday,4345,99th Street TC,0,92,122,0,0
+21,Weekday,4465,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4496,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4467,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4499,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4470,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4502,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4473,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4505,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4476,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4508,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4479,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4511,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4482,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4514,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4485,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4517,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4488,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4520,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4491,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4523,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4494,Fisher's Landing TC,0,93,123,0,0
+21,Weekday,4526,80 To VM via 51st Cir,1,93,124,0,0
+21,Weekday,4497,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4468,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4500,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4471,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4503,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4474,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4506,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4477,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4509,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4480,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4512,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4483,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4515,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4486,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4518,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4489,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4521,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4492,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4524,80 To VM via 51st Cir,1,94,124,0,0
+21,Weekday,4495,Fisher's Landing TC,0,94,123,0,0
+21,Weekday,4466,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4498,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4469,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4501,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4472,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4504,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4475,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4507,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4478,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4510,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4481,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4513,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4484,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4516,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4487,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4519,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4490,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4522,80 To VM via 51st Cir,1,95,124,0,0
+21,Weekday,4493,Fisher's Landing TC,0,95,123,0,0
+21,Weekday,4525,80 To VM via 51st Cir,1,95,124,0,0
+22,Weekday,172,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,486,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,173,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,488,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,196,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,490,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,176,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,492,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,178,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,494,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,180,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,496,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,182,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,498,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,184,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,500,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,186,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,502,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,188,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,504,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,190,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,506,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,192,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,508,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,481,Addy St & Addy Loop,1,96,128,0,0
+22,Weekday,510,Fisher's Landing Transit,0,96,130,0,0
+22,Weekday,479,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,487,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,174,39th St. & J St. [nb],1,97,127,0,0
+22,Weekday,489,Fisher's Landing Transit,0,97,131,0,0
+22,Weekday,175,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,491,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,177,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,493,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,179,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,495,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,181,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,497,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,183,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,499,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,185,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,501,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,187,39th St. & J St. [nb],1,97,127,0,0
+22,Weekday,503,Fisher's Landing Transit,0,97,131,0,0
+22,Weekday,189,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,505,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,191,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,507,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,193,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,509,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,194,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,511,Fisher's Landing Transit,0,97,130,0,0
+22,Weekday,195,Addy St & Addy Loop,1,97,128,0,0
+22,Weekday,512,Fisher's Landing Transit,0,97,130,0,0
+23,Weekday,579,SW 5th & Alder,1,98,134,0,0
+23,Weekday,580,Salmon Creek P&R,0,98,138,0,0
+23,Weekday,586,SW 5th & Alder,1,98,136,0,0
+23,Weekday,666,Salmon Creek P&R,0,98,138,0,0
+23,Weekday,593,SW 5th & Alder,1,98,136,0,0
+23,Weekday,594,Salmon Creek P&R,0,98,138,0,0
+23,Weekday,597,SW 5th & Alder,1,98,136,0,0
+23,Weekday,598,Salmon Creek P&R,0,98,138,0,0
+23,Weekday,601,SW 6th & Columbia,1,98,135,0,0
+23,Weekday,602,Salmon Creek P&R,0,98,139,0,0
+23,Weekday,605,SW 6th & Columbia,1,98,135,0,0
+23,Weekday,606,Salmon Creek P&R,0,98,139,0,0
+23,Weekday,611,SW 6th & Columbia,1,98,135,0,0
+29,Weekday,655,99th Street TC,1,98,171,0,0
+23,Weekday,669,SW 6th & Columbia,1,98,135,0,0
+23,Weekday,619,Salmon Creek P&R,0,98,139,0,0
+23,Weekday,581,SW 5th & Alder,1,99,136,0,0
+23,Weekday,582,Salmon Creek P&R,0,99,138,0,0
+23,Weekday,587,SW 5th & Alder,1,99,136,0,0
+23,Weekday,588,Salmon Creek P&R,0,99,138,0,0
+23,Weekday,595,SW 5th & Alder,1,99,136,0,0
+23,Weekday,596,Salmon Creek P&R,0,99,138,0,0
+23,Weekday,599,SW 5th & Alder,1,99,136,0,0
+23,Weekday,600,Salmon Creek P&R,0,99,138,0,0
+23,Weekday,603,SW 6th & Columbia,1,99,135,0,0
+23,Weekday,604,Salmon Creek P&R,0,99,139,0,0
+23,Weekday,607,SW 6th & Columbia,1,99,135,0,0
+23,Weekday,608,Salmon Creek P&R,0,99,139,0,0
+29,Weekday,657,99th Street TC,1,99,171,0,0
+23,Weekday,583,SW 5th & Alder,1,100,136,0,0
+23,Weekday,584,Salmon Creek P&R,0,100,138,0,0
+24,Weekday,634,134_199 Combo To PDX,1,100,143,0,0
+23,Weekday,585,SW 5th & Alder,1,101,136,0,0
+23,Weekday,665,Salmon Creek P&R,0,101,138,0,0
+23,Weekday,663,Salmon Creek P&R,0,102,139,0,0
+26,Weekday,485,Fisher's Landing Transit,1,102,156,0,0
+26,Weekday,18,SW 6th & Market,0,102,151,0,0
+26,Weekday,390,Fisher's Landing Transit,1,102,156,0,0
+23,Weekday,667,SW 6th & Columbia,1,103,133,0,0
+23,Weekday,613,Salmon Creek P&R,0,103,139,0,0
+23,Weekday,609,SW 6th & Columbia,1,104,135,0,0
+23,Weekday,610,Salmon Creek P&R,0,104,139,0,0
+24,Weekday,662,134_199 Combo To SC,0,104,146,0,0
+23,Weekday,668,SW 6th & Columbia,1,105,133,0,0
+23,Weekday,614,Salmon Creek P&R,0,105,139,0,0
+23,Weekday,623,SW 6th & Columbia,1,105,135,0,0
+23,Weekday,624,Salmon Creek P&R,0,105,139,0,0
+23,Weekday,612,Salmon Creek P&R,0,106,139,0,0
+23,Weekday,618,SW 6th & Columbia,1,106,135,0,0
+23,Weekday,621,Salmon Creek P&R,0,106,139,0,0
+24,Weekday,625,SW 5th & Hall,1,107,142,0,0
+24,Weekday,629,SW 5th & Hall,1,107,142,0,0
+24,Weekday,626,SW 5th & Hall,1,108,142,0,0
+24,Weekday,630,SW 5th & Hall,1,108,142,0,0
+24,Weekday,627,SW 5th & Hall,1,109,142,0,0
+29,Weekday,649,SW 5th & Hall,0,109,169,0,0
+24,Weekday,628,SW 5th & Hall,1,110,142,0,0
+26,Weekday,439,SW 5th & Harrison,0,110,153,0,0
+24,Weekday,632,SW 5th & Hall,1,111,142,0,0
+26,Weekday,1977,SW 5th & Morrison,0,111,152,0,0
+26,Weekday,1978,Fisher's Landing Transit,1,111,155,0,0
+24,Weekday,635,Salmon Creek P&R,0,112,145,0,0
+26,Weekday,483,Fisher's Landing Transit,1,112,156,0,0
+26,Weekday,388,Fisher's Landing Transit,1,112,156,0,0
+24,Weekday,636,Salmon Creek P&R,0,113,145,0,0
+24,Weekday,641,Salmon Creek P&R,0,113,145,0,0
+24,Weekday,661,134_199 Combo To SC,0,113,146,0,0
+24,Weekday,637,Salmon Creek P&R,0,114,145,0,0
+24,Weekday,642,Salmon Creek P&R,0,114,145,0,0
+24,Weekday,638,Salmon Creek P&R,0,115,145,0,0
+23,Weekday,616,SW 6th & Columbia,1,115,135,0,0
+23,Weekday,617,Salmon Creek P&R,0,115,139,0,0
+24,Weekday,639,Salmon Creek P&R,0,116,145,0,0
+24,Weekday,660,134_199 Combo To SC,0,116,146,0,0
+25,Weekday,294,NE Multnomah & 3rd [wb],1,117,147,0,0
+25,Weekday,682,99th Street TC,0,117,149,0,0
+25,Weekday,296,NE Multnomah & 3rd [wb],1,117,147,0,0
+25,Weekday,683,99th Street TC,0,117,149,0,0
+25,Weekday,295,NE Multnomah & 3rd [wb],1,118,147,0,0
+25,Weekday,1986,99th Street TC,0,118,149,0,0
+29,Weekday,651,SW 5th & Hall,0,118,169,0,0
+25,Weekday,684,99th Street TC,0,119,148,0,0
+25,Weekday,297,NE Multnomah & 3rd [wb],1,119,147,0,0
+25,Weekday,686,99th Street TC,0,119,149,0,0
+25,Weekday,685,99th Street TC,0,120,148,0,0
+23,Weekday,620,SW 6th & Columbia,1,120,135,0,0
+23,Weekday,622,Salmon Creek P&R,0,120,139,0,0
+26,Weekday,429,SW 5th & Morrison,0,121,152,0,0
+26,Weekday,444,Fisher's Landing Transit,1,121,155,0,0
+26,Weekday,433,SW 5th & Morrison,0,121,152,0,0
+26,Weekday,446,Fisher's Landing Transit,1,121,155,0,0
+26,Weekday,430,SW 5th & Harrison,0,122,153,0,0
+26,Weekday,435,SW 5th & Morrison,0,122,152,0,0
+26,Weekday,447,Fisher's Landing Transit,1,122,155,0,0
+26,Weekday,442,SW 5th & Morrison,0,122,152,0,0
+26,Weekday,450,Fisher's Landing Transit,1,122,155,0,0
+26,Weekday,431,SW 5th & Morrison,0,123,152,0,0
+26,Weekday,445,Fisher's Landing Transit,1,123,155,0,0
+26,Weekday,484,SW 5th & Harrison,0,123,153,0,0
+26,Weekday,443,SW 5th & Harrison,0,123,153,0,0
+26,Weekday,432,SW 5th & Harrison,0,124,153,0,0
+26,Weekday,438,SW 5th & Morrison,0,124,152,0,0
+26,Weekday,449,Fisher's Landing Transit,1,124,155,0,0
+26,Weekday,434,SW 5th & Harrison,0,125,153,0,0
+26,Weekday,440,SW 5th & Harrison,0,125,153,0,0
+26,Weekday,436,SW 5th & Harrison,0,126,153,0,0
+26,Weekday,437,SW 5th & Morrison,0,127,152,0,0
+26,Weekday,448,Fisher's Landing Transit,1,127,155,0,0
+26,Weekday,391,Fisher's Landing Transit,1,128,156,0,0
+26,Weekday,14,SW 6th & Market,0,128,151,0,0
+26,Weekday,382,Fisher's Landing Transit,1,128,156,0,0
+26,Weekday,386,Fisher's Landing Transit,1,128,156,0,0
+26,Weekday,393,Fisher's Landing Transit,1,129,156,0,0
+26,Weekday,384,Fisher's Landing Transit,1,129,156,0,0
+26,Weekday,392,Fisher's Landing Transit,1,130,156,0,0
+26,Weekday,15,SW 6th & Market,0,130,151,0,0
+26,Weekday,385,Fisher's Landing Transit,1,130,156,0,0
+26,Weekday,394,Fisher's Landing Transit,1,131,156,0,0
+23,Weekday,615,Salmon Creek P&R,0,131,139,0,0
+26,Weekday,1989,Fisher's Landing Transit,1,132,156,0,0
+24,Weekday,643,Salmon Creek P&R,0,132,145,0,0
+26,Weekday,383,Fisher's Landing Transit,1,133,156,0,0
+26,Weekday,16,SW 6th & Market,0,133,151,0,0
+26,Weekday,387,Fisher's Landing Transit,1,133,156,0,0
+26,Weekday,454,Fisher's Landing Transit,1,134,156,0,0
+26,Weekday,17,SW 6th & Market,0,134,151,0,0
+26,Weekday,389,Fisher's Landing Transit,1,134,156,0,0
+27,Weekday,22,SW 5th & Harrison,1,135,159,0,0
+27,Weekday,381,Evergreen Park & Ride,0,135,162,0,0
+27,Weekday,20,SW 5th & Harrison,1,135,159,0,0
+27,Weekday,19,SW 5th & Harrison,1,136,159,0,0
+26,Weekday,441,SW 5th & Harrison,0,136,153,0,0
+27,Weekday,378,Evergreen Park & Ride,0,137,163,0,0
+27,Weekday,395,SW 6th & Market,1,137,158,0,0
+27,Weekday,380,Evergreen Park & Ride,0,137,163,0,0
+27,Weekday,379,Evergreen Park & Ride,0,138,163,0,0
+28,Weekday,280,SW Campus Dr & Terwillig,1,139,164,0,0
+26,Weekday,451,SW 5th & Harrison,0,139,153,0,0
+28,Weekday,675,SW Campus Dr & Terwillig,1,140,164,0,0
+24,Weekday,633,SW 5th & Hall,1,140,142,0,0
+28,Weekday,12,SW Campus Dr & Terwillig,1,141,164,0,0
+29,Weekday,664,SW 5th & Hall,0,141,169,0,0
+28,Weekday,7,SW Campus Dr & Terwillig,1,142,164,0,0
+23,Weekday,589,SW 5th & Alder,1,142,136,0,0
+23,Weekday,590,Salmon Creek P&R,0,142,138,0,0
+28,Weekday,453,SW Campus Dr & Terwillig,1,143,164,0,0
+23,Weekday,591,SW 5th & Alder,1,143,136,0,0
+23,Weekday,592,Salmon Creek P&R,0,143,138,0,0
+28,Weekday,230,Andresen P&R,0,144,166,0,0
+28,Weekday,524,Andresen P&R,0,144,166,0,0
+28,Weekday,676,Andresen P&R,0,145,166,0,0
+26,Weekday,452,Fisher's Landing Transit,1,145,156,0,0
+28,Weekday,13,Andresen P&R,0,146,166,0,0
+28,Weekday,21,Andresen P&R,0,147,166,0,0
+29,Weekday,1979,SW 5th & Hall,0,148,169,0,0
+29,Weekday,646,SW 5th & Hall,0,148,169,0,0
+29,Weekday,644,SW 5th & Hall,0,149,169,0,0
+24,Weekday,631,SW 5th & Hall,1,149,142,0,0
+29,Weekday,645,SW 5th & Hall,0,150,169,0,0
+29,Weekday,650,SW 5th & Hall,0,150,169,0,0
+29,Weekday,647,SW 5th & Hall,0,151,169,0,0
+29,Weekday,648,SW 5th & Hall,0,152,169,0,0
+29,Weekday,677,99th Street TC,1,153,171,0,0
+29,Weekday,656,99th Street TC,1,153,171,0,0
+29,Weekday,652,99th Street TC,1,154,171,0,0
+24,Weekday,640,Salmon Creek P&R,0,154,145,0,0
+29,Weekday,653,99th Street TC,1,155,171,0,0
+29,Weekday,658,99th Street TC,1,155,171,0,0
+29,Weekday,654,99th Street TC,1,156,171,0,0
+29,Weekday,659,99th Street TC,1,156,171,0,0
+2,Saturday,852,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,821,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,832,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,842,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,853,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,822,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,833,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,843,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,854,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,823,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,834,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,844,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,855,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,824,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,835,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,845,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,856,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,825,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,836,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,846,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,857,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,826,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,837,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,847,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,858,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,827,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,838,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,848,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,859,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,828,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,839,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,849,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,860,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,829,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,840,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,850,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,861,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,830,FV to VA Transit Center,0,157,176,0,0
+2,Saturday,841,Columbia House Blvd at P,0,157,177,0,0
+2,Saturday,851,Grand To VA Transit Center,1,157,173,0,0
+2,Saturday,862,Fruit Valley Rd & La Fra,1,157,174,0,0
+2,Saturday,831,FV to VA Transit Center,0,157,176,0,0
+6,Saturday,1377,99th Street TC,1,158,183,0,0
+5,Saturday,1285,NE 29th Ave & WSUV Trail,1,158,180,0,0
+5,Saturday,1275,99th Street TC,0,158,181,0,0
+6,Saturday,1368,Mill Plain & Franklin [e,0,158,185,0,0
+6,Saturday,1379,99th Street TC,1,158,182,0,0
+5,Saturday,1287,NE 29th Ave & WSUV Trail,1,158,180,0,0
+5,Saturday,1284,99th Street TC,0,158,181,0,0
+6,Saturday,1370,Mill Plain & Franklin [e,0,158,185,0,0
+6,Saturday,1381,99th Street TC,1,158,182,0,0
+5,Saturday,1289,NE 29th Ave & WSUV Trail,1,158,180,0,0
+5,Saturday,1278,99th Street TC,0,158,181,0,0
+6,Saturday,1372,Mill Plain & Franklin [e,0,158,185,0,0
+6,Saturday,1383,99th Street TC,1,158,182,0,0
+5,Saturday,1291,NE 29th Ave & WSUV Trail,1,158,180,0,0
+5,Saturday,1280,99th Street TC,0,158,181,0,0
+6,Saturday,1374,Mill Plain & Franklin [e,0,158,185,0,0
+6,Saturday,1385,99th Street TC,1,158,182,0,0
+5,Saturday,1293,NE 29th Ave & WSUV Trail,1,158,180,0,0
+5,Saturday,1282,99th Street TC,0,158,181,0,0
+6,Saturday,1376,Mill Plain & Franklin [e,0,158,185,0,0
+6,Saturday,1387,99th Street TC,1,158,182,0,0
+6,Saturday,1367,Mill Plain & Franklin [e,0,159,185,0,0
+6,Saturday,1378,99th Street TC,1,159,182,0,0
+5,Saturday,1286,NE 29th Ave & WSUV Trail,1,159,180,0,0
+5,Saturday,1276,99th Street TC,0,159,181,0,0
+6,Saturday,1369,Mill Plain & Franklin [e,0,159,185,0,0
+6,Saturday,1380,99th Street TC,1,159,182,0,0
+5,Saturday,1288,NE 29th Ave & WSUV Trail,1,159,180,0,0
+5,Saturday,1277,99th Street TC,0,159,181,0,0
+6,Saturday,1371,Mill Plain & Franklin [e,0,159,185,0,0
+6,Saturday,1382,99th Street TC,1,159,182,0,0
+5,Saturday,1290,NE 29th Ave & WSUV Trail,1,159,180,0,0
+5,Saturday,1279,99th Street TC,0,159,181,0,0
+6,Saturday,1373,Mill Plain & Franklin [e,0,159,185,0,0
+6,Saturday,1384,99th Street TC,1,159,182,0,0
+5,Saturday,1292,NE 29th Ave & WSUV Trail,1,159,180,0,0
+5,Saturday,1281,99th Street TC,0,159,181,0,0
+6,Saturday,1375,Mill Plain & Franklin [e,0,159,185,0,0
+6,Saturday,1386,99th Street TC,1,159,182,0,0
+5,Saturday,1294,NE 29th Ave & WSUV Trail,1,159,180,0,0
+5,Saturday,1283,99th Street TC,0,159,181,0,0
+7,Saturday,279,Broadway & Evergreen Blv,0,160,190,0,0
+7,Saturday,45,Fisher's Landing Transit,1,160,186,0,0
+7,Saturday,42,Broadway & Evergreen Blv,0,160,189,0,0
+7,Saturday,46,Fisher's Landing Transit,1,160,186,0,0
+7,Saturday,26,Broadway & Evergreen Blv,0,160,189,0,0
+7,Saturday,50,Fisher's Landing Transit,1,160,186,0,0
+7,Saturday,30,Broadway & Evergreen Blv,0,160,189,0,0
+7,Saturday,54,Fisher's Landing Transit,1,160,186,0,0
+7,Saturday,34,Broadway & Evergreen Blv,0,160,189,0,0
+7,Saturday,58,Fisher's Landing Transit,1,160,186,0,0
+7,Saturday,38,Broadway & Evergreen Blv,0,160,189,0,0
+7,Saturday,62,Fisher's Landing Transit,1,160,186,0,0
+7,Saturday,278,Fisher's Landing Transit,1,161,187,0,0
+7,Saturday,65,Broadway & Evergreen Blv,0,161,189,0,0
+7,Saturday,66,Fisher's Landing Transit,1,161,186,0,0
+7,Saturday,25,Broadway & Evergreen Blv,0,161,189,0,0
+7,Saturday,49,Fisher's Landing Transit,1,161,186,0,0
+7,Saturday,29,Broadway & Evergreen Blv,0,161,189,0,0
+7,Saturday,53,Fisher's Landing Transit,1,161,186,0,0
+7,Saturday,33,Broadway & Evergreen Blv,0,161,189,0,0
+7,Saturday,57,Fisher's Landing Transit,1,161,186,0,0
+7,Saturday,37,Broadway & Evergreen Blv,0,161,189,0,0
+7,Saturday,61,Fisher's Landing Transit,1,161,186,0,0
+7,Saturday,41,Broadway & Evergreen Blv,0,161,189,0,0
+7,Saturday,43,Broadway & Evergreen Blv,0,162,190,0,0
+7,Saturday,44,Fisher's Landing Transit,1,162,186,0,0
+7,Saturday,24,Broadway & Evergreen Blv,0,162,189,0,0
+7,Saturday,48,Fisher's Landing Transit,1,162,186,0,0
+7,Saturday,28,Broadway & Evergreen Blv,0,162,189,0,0
+7,Saturday,52,Fisher's Landing Transit,1,162,186,0,0
+7,Saturday,32,Broadway & Evergreen Blv,0,162,189,0,0
+7,Saturday,56,Fisher's Landing Transit,1,162,186,0,0
+7,Saturday,36,Broadway & Evergreen Blv,0,162,189,0,0
+7,Saturday,60,Fisher's Landing Transit,1,162,186,0,0
+7,Saturday,40,Broadway & Evergreen Blv,0,162,189,0,0
+7,Saturday,64,Fisher's Landing Transit,1,162,186,0,0
+7,Saturday,23,Broadway & Evergreen Blv,0,163,189,0,0
+7,Saturday,47,Fisher's Landing Transit,1,163,186,0,0
+7,Saturday,27,Broadway & Evergreen Blv,0,163,189,0,0
+7,Saturday,51,Fisher's Landing Transit,1,163,186,0,0
+7,Saturday,31,Broadway & Evergreen Blv,0,163,189,0,0
+7,Saturday,55,Fisher's Landing Transit,1,163,186,0,0
+7,Saturday,35,Broadway & Evergreen Blv,0,163,189,0,0
+7,Saturday,59,Fisher's Landing Transit,1,163,186,0,0
+7,Saturday,39,Broadway & Evergreen Blv,0,163,189,0,0
+7,Saturday,63,Fisher's Landing Transit,1,163,186,0,0
+9,Saturday,298,Van Mall TC,1,164,194,0,0
+9,Saturday,299,Evergreen/Andresen,0,164,195,0,0
+8,Saturday,2672,99th Street TC,0,164,192,0,0
+8,Saturday,2693,Evergreen Blvd & C St,1,164,193,0,0
+9,Saturday,2711,Van Mall TC,1,164,194,0,0
+9,Saturday,302,Evergreen/Andresen,0,164,195,0,0
+8,Saturday,2675,99th Street TC,0,164,192,0,0
+8,Saturday,2696,Evergreen Blvd & C St,1,164,193,0,0
+9,Saturday,2714,Van Mall TC,1,164,194,0,0
+9,Saturday,305,Evergreen/Andresen,0,164,195,0,0
+8,Saturday,2678,99th Street TC,0,164,192,0,0
+8,Saturday,2699,Evergreen Blvd & C St,1,164,193,0,0
+9,Saturday,2717,Van Mall TC,1,164,194,0,0
+9,Saturday,308,Evergreen/Andresen,0,164,195,0,0
+8,Saturday,2681,99th Street TC,0,164,192,0,0
+8,Saturday,2702,Evergreen Blvd & C St,1,164,193,0,0
+9,Saturday,2720,Van Mall TC,1,164,194,0,0
+9,Saturday,311,Evergreen/Andresen,0,164,195,0,0
+8,Saturday,2684,99th Street TC,0,164,192,0,0
+8,Saturday,2705,Evergreen Blvd & C St,1,164,193,0,0
+9,Saturday,2723,Van Mall TC,1,164,194,0,0
+9,Saturday,314,Evergreen/Andresen,0,164,195,0,0
+8,Saturday,2687,99th Street TC,0,164,192,0,0
+8,Saturday,2708,Evergreen Blvd & C St,1,164,193,0,0
+9,Saturday,2726,Van Mall TC,1,164,194,0,0
+9,Saturday,317,Evergreen/Andresen,0,164,195,0,0
+8,Saturday,2690,99th Street TC,0,164,192,0,0
+8,Saturday,2691,Evergreen Blvd & C St,1,165,193,0,0
+9,Saturday,2709,Van Mall TC,1,165,194,0,0
+9,Saturday,300,Evergreen/Andresen,0,165,195,0,0
+8,Saturday,2673,99th Street TC,0,165,192,0,0
+8,Saturday,2694,Evergreen Blvd & C St,1,165,193,0,0
+9,Saturday,2712,Van Mall TC,1,165,194,0,0
+9,Saturday,303,Evergreen/Andresen,0,165,195,0,0
+8,Saturday,2676,99th Street TC,0,165,192,0,0
+8,Saturday,2697,Evergreen Blvd & C St,1,165,193,0,0
+9,Saturday,2715,Van Mall TC,1,165,194,0,0
+9,Saturday,306,Evergreen/Andresen,0,165,195,0,0
+8,Saturday,2679,99th Street TC,0,165,192,0,0
+8,Saturday,2700,Evergreen Blvd & C St,1,165,193,0,0
+9,Saturday,2718,Van Mall TC,1,165,194,0,0
+9,Saturday,309,Evergreen/Andresen,0,165,195,0,0
+8,Saturday,2682,99th Street TC,0,165,192,0,0
+8,Saturday,2703,Evergreen Blvd & C St,1,165,193,0,0
+9,Saturday,2721,Van Mall TC,1,165,194,0,0
+9,Saturday,312,Evergreen/Andresen,0,165,195,0,0
+8,Saturday,2685,99th Street TC,0,165,192,0,0
+8,Saturday,2706,Evergreen Blvd & C St,1,165,193,0,0
+9,Saturday,2724,Van Mall TC,1,165,194,0,0
+9,Saturday,315,Evergreen/Andresen,0,165,195,0,0
+8,Saturday,2688,99th Street TC,0,165,192,0,0
+8,Saturday,2692,Evergreen Blvd & C St,1,166,193,0,0
+9,Saturday,2710,Van Mall TC,1,166,194,0,0
+9,Saturday,301,Evergreen/Andresen,0,166,195,0,0
+8,Saturday,2674,99th Street TC,0,166,192,0,0
+8,Saturday,2695,Evergreen Blvd & C St,1,166,193,0,0
+9,Saturday,2713,Van Mall TC,1,166,194,0,0
+9,Saturday,304,Evergreen/Andresen,0,166,195,0,0
+8,Saturday,2677,99th Street TC,0,166,192,0,0
+8,Saturday,2698,Evergreen Blvd & C St,1,166,193,0,0
+9,Saturday,2716,Van Mall TC,1,166,194,0,0
+9,Saturday,307,Evergreen/Andresen,0,166,195,0,0
+8,Saturday,2680,99th Street TC,0,166,192,0,0
+8,Saturday,2701,Evergreen Blvd & C St,1,166,193,0,0
+9,Saturday,2719,Van Mall TC,1,166,194,0,0
+9,Saturday,310,Evergreen/Andresen,0,166,195,0,0
+8,Saturday,2683,99th Street TC,0,166,192,0,0
+8,Saturday,2704,Evergreen Blvd & C St,1,166,193,0,0
+9,Saturday,2722,Van Mall TC,1,166,194,0,0
+9,Saturday,313,Evergreen/Andresen,0,166,195,0,0
+8,Saturday,2686,99th Street TC,0,166,192,0,0
+8,Saturday,2707,Evergreen Blvd & C St,1,166,193,0,0
+9,Saturday,2725,Van Mall TC,1,166,194,0,0
+9,Saturday,316,Evergreen/Andresen,0,166,195,0,0
+8,Saturday,2689,99th Street TC,0,166,192,0,0
+10,Saturday,1640,Fisher's Landing Transit via 164,1,167,198,0,0
+10,Saturday,1598,Evergreen Blvd & C St via 164,0,167,204,0,0
+10,Saturday,1642,Fisher's Landing Transit via 164,1,167,198,0,0
+10,Saturday,1622,Evergreen Blvd & C St via 192,0,167,205,0,0
+10,Saturday,1667,Fisher's Landing Transit via 192,1,167,201,0,0
+10,Saturday,1603,Evergreen Blvd & C St via 164,0,167,204,0,0
+10,Saturday,1647,Fisher's Landing Transit via 164,1,167,198,0,0
+10,Saturday,1627,Evergreen Blvd & C St via 192,0,167,205,0,0
+10,Saturday,1672,Fisher's Landing Transit via 192,1,167,201,0,0
+10,Saturday,1608,Evergreen Blvd & C St via 164,0,167,204,0,0
+10,Saturday,1652,Fisher's Landing Transit via 164,1,167,198,0,0
+10,Saturday,1632,Evergreen Blvd & C St via 192,0,167,205,0,0
+10,Saturday,1677,Fisher's Landing Transit via 192,1,167,201,0,0
+10,Saturday,1613,Evergreen Blvd & C St via 164,0,167,204,0,0
+10,Saturday,1657,Fisher's Landing Transit via 164,1,167,198,0,0
+10,Saturday,1637,Evergreen Blvd & C St via 164,0,167,204,0,0
+10,Saturday,1682,Fisher's Landing Transit via 164,1,167,198,0,0
+10,Saturday,1617,Evergreen Blvd & C St via 164,0,167,204,0,0
+10,Saturday,1660,Fisher's Landing Transit via 164,1,167,198,0,0
+10,Saturday,1618,Evergreen Blvd & C St via 164,0,167,204,0,0
+10,Saturday,1661,Fisher's Landing Transit via 164,1,167,198,0,0
+10,Saturday,1597,Evergreen Blvd & C St via 164,0,168,204,0,0
+10,Saturday,1641,Fisher's Landing Transit via 164,1,168,198,0,0
+10,Saturday,1621,Evergreen Blvd & C St via 192,0,168,205,0,0
+10,Saturday,1666,Fisher's Landing Transit via 192,1,168,201,0,0
+10,Saturday,1602,Evergreen Blvd & C St via 164,0,168,204,0,0
+10,Saturday,1646,Fisher's Landing Transit via 164,1,168,198,0,0
+10,Saturday,1626,Evergreen Blvd & C St via 192,0,168,205,0,0
+10,Saturday,1671,Fisher's Landing Transit via 192,1,168,201,0,0
+10,Saturday,1607,Evergreen Blvd & C St via 164,0,168,204,0,0
+10,Saturday,1651,Fisher's Landing Transit via 164,1,168,198,0,0
+10,Saturday,1631,Evergreen Blvd & C St via 192,0,168,205,0,0
+10,Saturday,1676,Fisher's Landing Transit via 192,1,168,201,0,0
+10,Saturday,1612,Evergreen Blvd & C St via 164,0,168,204,0,0
+10,Saturday,1656,Fisher's Landing Transit via 164,1,168,198,0,0
+10,Saturday,1636,Evergreen Blvd & C St via 192,0,168,205,0,0
+10,Saturday,1681,Fisher's Landing Transit via 164,1,168,198,0,0
+10,Saturday,1616,Evergreen Blvd & C St via 164,0,168,204,0,0
+10,Saturday,1659,Fisher's Landing Transit via 164,1,168,198,0,0
+10,Saturday,1639,Evergreen Blvd & C St via 164,0,168,204,0,0
+10,Saturday,1684,Fisher's Landing Transit via 164,1,168,198,0,0
+10,Saturday,1619,Evergreen Blvd & C St via 192,0,169,205,0,0
+10,Saturday,1664,Fisher's Landing Transit via 192,1,169,201,0,0
+10,Saturday,1600,Evergreen Blvd & C St via 164,0,169,204,0,0
+10,Saturday,1644,Fisher's Landing Transit via 164,1,169,198,0,0
+10,Saturday,1624,Evergreen Blvd & C St via 192,0,169,205,0,0
+10,Saturday,1669,Fisher's Landing Transit via 192,1,169,201,0,0
+10,Saturday,1605,Evergreen Blvd & C St via 164,0,169,204,0,0
+10,Saturday,1649,Fisher's Landing Transit via 164,1,169,198,0,0
+10,Saturday,1629,Evergreen Blvd & C St via 192,0,169,205,0,0
+10,Saturday,1674,Fisher's Landing Transit via 192,1,169,201,0,0
+10,Saturday,1610,Evergreen Blvd & C St via 164,0,169,204,0,0
+10,Saturday,1654,Fisher's Landing Transit via 164,1,169,198,0,0
+10,Saturday,1634,Evergreen Blvd & C St via 192,0,169,205,0,0
+10,Saturday,1679,Fisher's Landing Transit via 192,1,169,201,0,0
+10,Saturday,1615,Evergreen Blvd & C St via 164,0,169,204,0,0
+10,Saturday,1662,Fisher's Landing Transit via 164,1,169,198,0,0
+10,Saturday,1638,Evergreen Blvd & C St via 164,0,169,204,0,0
+10,Saturday,1683,Fisher's Landing Transit via 164,1,169,198,0,0
+10,Saturday,1663,Fisher's Landing Transit via 192,1,170,201,0,0
+10,Saturday,1599,Evergreen Blvd & C St via 164,0,170,204,0,0
+10,Saturday,1643,Fisher's Landing Transit via 164,1,170,198,0,0
+10,Saturday,1601,Evergreen Blvd & C St via 164,0,170,204,0,0
+10,Saturday,1645,Fisher's Landing Transit via 164,1,170,198,0,0
+10,Saturday,1625,Evergreen Blvd & C St via 192,0,170,205,0,0
+10,Saturday,1670,Fisher's Landing Transit via 192,1,170,201,0,0
+10,Saturday,1606,Evergreen Blvd & C St via 164,0,170,204,0,0
+10,Saturday,1650,Fisher's Landing Transit via 164,1,170,198,0,0
+10,Saturday,1630,Evergreen Blvd & C St via 192,0,170,205,0,0
+10,Saturday,1675,Fisher's Landing Transit via 192,1,170,201,0,0
+10,Saturday,1611,Evergreen Blvd & C St via 164,0,170,204,0,0
+10,Saturday,1655,Fisher's Landing Transit via 164,1,170,198,0,0
+10,Saturday,1635,Evergreen Blvd & C St via 192,0,170,205,0,0
+10,Saturday,1680,Fisher's Landing Transit via 192,1,170,201,0,0
+10,Saturday,1620,Evergreen Blvd & C St via 192,0,171,205,0,0
+10,Saturday,1665,Fisher's Landing Transit via 192,1,171,201,0,0
+10,Saturday,1623,Evergreen Blvd & C St via 192,0,171,205,0,0
+10,Saturday,1668,Fisher's Landing Transit via 192,1,171,201,0,0
+10,Saturday,1604,Evergreen Blvd & C St via 164,0,171,204,0,0
+10,Saturday,1648,Fisher's Landing Transit via 164,1,171,198,0,0
+10,Saturday,1628,Evergreen Blvd & C St via 192,0,171,205,0,0
+10,Saturday,1673,Fisher's Landing Transit via 192,1,171,201,0,0
+10,Saturday,1609,Evergreen Blvd & C St via 164,0,171,204,0,0
+10,Saturday,1653,Fisher's Landing Transit via 164,1,171,198,0,0
+10,Saturday,1633,Evergreen Blvd & C St via 192,0,171,205,0,0
+10,Saturday,1678,Fisher's Landing Transit via 192,1,171,201,0,0
+10,Saturday,1614,Evergreen Blvd & C St via 164,0,171,204,0,0
+10,Saturday,1658,Fisher's Landing Transit via 164,1,171,198,0,0
+13,Saturday,1727,City Center,1,172,207,0,0
+13,Saturday,1788,Van Mall TC,0,172,206,0,0
+13,Saturday,1728,City Center,1,172,207,0,0
+13,Saturday,1789,Van Mall TC,0,172,206,0,0
+13,Saturday,1730,City Center,1,172,207,0,0
+13,Saturday,1791,Van Mall TC,0,172,206,0,0
+13,Saturday,1732,City Center,1,172,207,0,0
+13,Saturday,1793,Van Mall TC,0,172,206,0,0
+13,Saturday,1737,City Center,1,172,207,0,0
+13,Saturday,1798,Van Mall TC,0,172,206,0,0
+13,Saturday,1742,City Center,1,172,207,0,0
+13,Saturday,1803,Van Mall TC,0,172,206,0,0
+13,Saturday,1747,City Center,1,172,207,0,0
+13,Saturday,1808,Van Mall TC,0,172,206,0,0
+13,Saturday,1752,City Center,1,172,207,0,0
+13,Saturday,1813,Van Mall TC,0,172,206,0,0
+13,Saturday,1757,City Center,1,172,207,0,0
+13,Saturday,1818,Van Mall TC,0,172,206,0,0
+13,Saturday,1762,City Center,1,172,207,0,0
+13,Saturday,1823,Van Mall TC,0,172,206,0,0
+13,Saturday,1767,City Center,1,172,207,0,0
+13,Saturday,1828,Van Mall TC,0,172,206,0,0
+13,Saturday,1772,City Center,1,172,207,0,0
+13,Saturday,1833,Van Mall TC,0,172,206,0,0
+13,Saturday,1777,City Center,1,172,207,0,0
+13,Saturday,1838,Van Mall TC,0,172,206,0,0
+13,Saturday,1781,City Center,1,172,207,0,0
+13,Saturday,1842,Van Mall TC,0,172,206,0,0
+13,Saturday,1849,City Center,1,173,207,0,0
+13,Saturday,1850,Van Mall TC,0,173,206,0,0
+13,Saturday,1729,City Center,1,173,207,0,0
+13,Saturday,1790,Van Mall TC,0,173,206,0,0
+13,Saturday,1731,City Center,1,173,207,0,0
+13,Saturday,1792,Van Mall TC,0,173,206,0,0
+13,Saturday,1735,City Center,1,173,207,0,0
+13,Saturday,1796,Van Mall TC,0,173,206,0,0
+13,Saturday,1740,City Center,1,173,207,0,0
+13,Saturday,1801,Van Mall TC,0,173,206,0,0
+13,Saturday,1745,City Center,1,173,207,0,0
+13,Saturday,1806,Van Mall TC,0,173,206,0,0
+13,Saturday,1750,City Center,1,173,207,0,0
+13,Saturday,1811,Van Mall TC,0,173,206,0,0
+13,Saturday,1755,City Center,1,173,207,0,0
+13,Saturday,1816,Van Mall TC,0,173,206,0,0
+13,Saturday,1760,City Center,1,173,207,0,0
+13,Saturday,1821,Van Mall TC,0,173,206,0,0
+13,Saturday,1765,City Center,1,173,207,0,0
+13,Saturday,1826,Van Mall TC,0,173,206,0,0
+13,Saturday,1770,City Center,1,173,207,0,0
+13,Saturday,1831,Van Mall TC,0,173,206,0,0
+13,Saturday,1775,City Center,1,173,207,0,0
+13,Saturday,1836,Van Mall TC,0,173,206,0,0
+13,Saturday,1780,City Center,1,173,207,0,0
+13,Saturday,1841,Van Mall TC,0,173,206,0,0
+13,Saturday,1783,City Center,1,173,207,0,0
+13,Saturday,1844,Van Mall TC,0,173,206,0,0
+13,Saturday,1785,City Center,1,173,207,0,0
+13,Saturday,1846,Van Mall TC,0,173,206,0,0
+13,Saturday,1787,City Center,1,173,207,0,0
+13,Saturday,1848,Van Mall TC,0,173,206,0,0
+13,Saturday,1733,City Center,1,174,207,0,0
+13,Saturday,1794,Van Mall TC,0,174,206,0,0
+13,Saturday,1738,City Center,1,174,207,0,0
+13,Saturday,1799,Van Mall TC,0,174,206,0,0
+13,Saturday,1743,City Center,1,174,207,0,0
+13,Saturday,1804,Van Mall TC,0,174,206,0,0
+13,Saturday,1748,City Center,1,174,207,0,0
+13,Saturday,1809,Van Mall TC,0,174,206,0,0
+13,Saturday,1753,City Center,1,174,207,0,0
+13,Saturday,1814,Van Mall TC,0,174,206,0,0
+13,Saturday,1758,City Center,1,174,207,0,0
+13,Saturday,1819,Van Mall TC,0,174,206,0,0
+13,Saturday,1763,City Center,1,174,207,0,0
+13,Saturday,1824,Van Mall TC,0,174,206,0,0
+13,Saturday,1768,City Center,1,174,207,0,0
+13,Saturday,1829,Van Mall TC,0,174,206,0,0
+13,Saturday,1773,City Center,1,174,207,0,0
+13,Saturday,1834,Van Mall TC,0,174,206,0,0
+13,Saturday,1778,City Center,1,174,207,0,0
+13,Saturday,1839,Van Mall TC,0,174,206,0,0
+13,Saturday,1782,City Center,1,174,207,0,0
+13,Saturday,1843,Van Mall TC,0,174,206,0,0
+13,Saturday,1784,City Center,1,174,207,0,0
+13,Saturday,1845,Van Mall TC,0,174,206,0,0
+13,Saturday,1786,City Center,1,174,207,0,0
+13,Saturday,1847,Van Mall TC,0,174,206,0,0
+13,Saturday,1734,City Center,1,175,207,0,0
+13,Saturday,1795,Van Mall TC,0,175,206,0,0
+13,Saturday,1739,City Center,1,175,207,0,0
+13,Saturday,1800,Van Mall TC,0,175,206,0,0
+13,Saturday,1744,City Center,1,175,207,0,0
+13,Saturday,1805,Van Mall TC,0,175,206,0,0
+13,Saturday,1749,City Center,1,175,207,0,0
+13,Saturday,1810,Van Mall TC,0,175,206,0,0
+13,Saturday,1754,City Center,1,175,207,0,0
+13,Saturday,1815,Van Mall TC,0,175,206,0,0
+13,Saturday,1759,City Center,1,175,207,0,0
+13,Saturday,1820,Van Mall TC,0,175,206,0,0
+13,Saturday,1764,City Center,1,175,207,0,0
+13,Saturday,1825,Van Mall TC,0,175,206,0,0
+13,Saturday,1769,City Center,1,175,207,0,0
+13,Saturday,1830,Van Mall TC,0,175,206,0,0
+13,Saturday,1774,City Center,1,175,207,0,0
+13,Saturday,1835,Van Mall TC,0,175,206,0,0
+13,Saturday,1779,City Center,1,175,207,0,0
+13,Saturday,1840,Van Mall TC,0,175,206,0,0
+13,Saturday,1736,City Center,1,176,207,0,0
+13,Saturday,1797,Van Mall TC,0,176,206,0,0
+13,Saturday,1741,City Center,1,176,207,0,0
+13,Saturday,1802,Van Mall TC,0,176,206,0,0
+13,Saturday,1746,City Center,1,176,207,0,0
+13,Saturday,1807,Van Mall TC,0,176,206,0,0
+13,Saturday,1751,City Center,1,176,207,0,0
+13,Saturday,1812,Van Mall TC,0,176,206,0,0
+13,Saturday,1756,City Center,1,176,207,0,0
+13,Saturday,1817,Van Mall TC,0,176,206,0,0
+13,Saturday,1761,City Center,1,176,207,0,0
+13,Saturday,1822,Van Mall TC,0,176,206,0,0
+13,Saturday,1766,City Center,1,176,207,0,0
+13,Saturday,1827,Van Mall TC,0,176,206,0,0
+13,Saturday,1771,City Center,1,176,207,0,0
+13,Saturday,1832,Van Mall TC,0,176,206,0,0
+13,Saturday,1776,City Center,1,176,207,0,0
+13,Saturday,1837,Van Mall TC,0,176,206,0,0
+14,Saturday,1214,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1153,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1215,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1154,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1216,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1155,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1217,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1156,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1218,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1157,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1219,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1159,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1264,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1161,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1266,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1163,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1268,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1165,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1270,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1167,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1272,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1169,City Center via Jantzen,0,177,211,0,0
+14,Saturday,1220,Delta Park No Jantzen,1,177,210,0,0
+14,Saturday,1171,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1222,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1173,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1224,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1175,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1226,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1177,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1228,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1180,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1230,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1183,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1233,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1186,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1236,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1189,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1239,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1192,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1242,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1194,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1244,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1196,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1246,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1198,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1248,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1200,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1250,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1202,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1252,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1204,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1254,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1206,City Center No Jantzen,0,177,212,0,0
+14,Saturday,1256,Delta Park via Jantzen,1,177,208,0,0
+14,Saturday,1975,City Center No Jantzen,0,177,212,0,0
+14,Saturday,4661,Broadway & 12th St fs,1,177,209,0,0
+14,Saturday,1158,City Center via Jantzen,0,178,211,0,0
+14,Saturday,1263,Delta Park No Jantzen,1,178,210,0,0
+14,Saturday,1160,City Center via Jantzen,0,178,211,0,0
+14,Saturday,1265,Delta Park No Jantzen,1,178,210,0,0
+14,Saturday,1162,City Center via Jantzen,0,178,211,0,0
+14,Saturday,1267,Delta Park No Jantzen,1,178,210,0,0
+14,Saturday,1164,City Center via Jantzen,0,178,211,0,0
+14,Saturday,1269,Delta Park No Jantzen,1,178,210,0,0
+14,Saturday,1166,City Center via Jantzen,0,178,211,0,0
+14,Saturday,1271,Delta Park No Jantzen,1,178,210,0,0
+14,Saturday,1168,City Center via Jantzen,0,178,211,0,0
+14,Saturday,1273,Delta Park No Jantzen,1,178,210,0,0
+14,Saturday,1170,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1221,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1172,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1223,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1174,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1225,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1176,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1227,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1179,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1229,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1182,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1232,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1185,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1235,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1188,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1238,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1191,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1241,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1193,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1243,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1195,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1245,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1197,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1247,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1199,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1249,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1201,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1251,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1203,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1253,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1205,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1255,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1207,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1257,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1208,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1258,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1209,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1259,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1210,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1260,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1211,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1261,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1212,City Center No Jantzen,0,178,212,0,0
+14,Saturday,1262,Delta Park via Jantzen,1,178,208,0,0
+14,Saturday,1213,City Center No Jantzen,0,178,212,0,0
+14,Saturday,3581,Broadway & 12th St fs,1,178,209,0,0
+14,Saturday,1178,City Center No Jantzen,0,179,212,0,0
+14,Saturday,1274,Delta Park via Jantzen,1,179,208,0,0
+14,Saturday,1181,City Center No Jantzen,0,179,212,0,0
+14,Saturday,1231,Delta Park via Jantzen,1,179,208,0,0
+14,Saturday,1184,City Center No Jantzen,0,179,212,0,0
+14,Saturday,1234,Delta Park via Jantzen,1,179,208,0,0
+14,Saturday,1187,City Center No Jantzen,0,179,212,0,0
+14,Saturday,1237,Delta Park via Jantzen,1,179,208,0,0
+14,Saturday,1190,City Center No Jantzen,0,179,212,0,0
+14,Saturday,1240,Delta Park via Jantzen,1,179,208,0,0
+15,Saturday,89,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,110,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,90,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,111,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,91,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,112,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,92,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,113,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,93,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,114,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,94,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,115,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,95,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,116,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,96,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,117,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,97,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,118,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,98,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,119,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,99,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,120,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,100,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,121,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,101,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,122,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,102,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,123,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,103,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,124,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,104,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,125,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,105,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,126,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,106,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,127,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,107,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,128,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,108,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,129,Fisher's Landing Transit,0,180,214,0,0
+15,Saturday,109,Parkrose/Sumner Transit,1,180,213,0,0
+15,Saturday,130,Fisher's Landing Transit,0,180,214,0,0
+17,Saturday,4000,99th Street TC,0,181,215,0,0
+17,Saturday,3968,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4002,99th Street TC,0,181,215,0,0
+17,Saturday,3970,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4004,99th Street TC,0,181,215,0,0
+17,Saturday,3972,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4006,99th Street TC,0,181,215,0,0
+17,Saturday,3974,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4008,99th Street TC,0,181,215,0,0
+17,Saturday,3976,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4010,99th Street TC,0,181,215,0,0
+17,Saturday,3978,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4012,99th Street TC,0,181,215,0,0
+17,Saturday,3980,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4026,99th Street TC,0,181,215,0,0
+17,Saturday,3982,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4028,99th Street TC,0,181,215,0,0
+17,Saturday,3984,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4030,99th Street TC,0,181,215,0,0
+17,Saturday,3986,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4032,99th Street TC,0,181,215,0,0
+17,Saturday,3988,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4014,99th Street TC,0,181,215,0,0
+17,Saturday,3990,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4016,99th Street TC,0,181,215,0,0
+17,Saturday,3992,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4018,99th Street TC,0,181,215,0,0
+17,Saturday,3994,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4020,99th Street TC,0,181,215,0,0
+17,Saturday,3996,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4022,99th Street TC,0,181,215,0,0
+17,Saturday,3998,Broadway & Evergreen Blv,1,181,216,0,0
+17,Saturday,4024,99th Street TC,0,181,215,0,0
+17,Saturday,4001,99th Street TC,0,182,215,0,0
+17,Saturday,3969,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4003,99th Street TC,0,182,215,0,0
+17,Saturday,3971,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4005,99th Street TC,0,182,215,0,0
+17,Saturday,3973,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4007,99th Street TC,0,182,215,0,0
+17,Saturday,3975,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4009,99th Street TC,0,182,215,0,0
+17,Saturday,3977,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4011,99th Street TC,0,182,215,0,0
+17,Saturday,3979,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4013,99th Street TC,0,182,215,0,0
+17,Saturday,3981,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4027,99th Street TC,0,182,215,0,0
+17,Saturday,3983,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4029,99th Street TC,0,182,215,0,0
+17,Saturday,3985,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4031,99th Street TC,0,182,215,0,0
+17,Saturday,3987,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4033,99th Street TC,0,182,215,0,0
+17,Saturday,3989,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4015,99th Street TC,0,182,215,0,0
+17,Saturday,3991,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4017,99th Street TC,0,182,215,0,0
+17,Saturday,3993,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4019,99th Street TC,0,182,215,0,0
+17,Saturday,3995,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4021,99th Street TC,0,182,215,0,0
+17,Saturday,3997,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4023,99th Street TC,0,182,215,0,0
+17,Saturday,3999,Broadway & Evergreen Blv,1,182,216,0,0
+17,Saturday,4025,99th Street TC,0,182,215,0,0
+18,Saturday,952,Orchards,1,183,217,0,0
+18,Saturday,964,Van Mall TC,0,183,218,0,0
+18,Saturday,953,Orchards,1,183,217,0,0
+18,Saturday,965,Van Mall TC,0,183,218,0,0
+18,Saturday,954,Orchards,1,183,217,0,0
+18,Saturday,966,Van Mall TC,0,183,218,0,0
+18,Saturday,955,Orchards,1,183,217,0,0
+18,Saturday,967,Van Mall TC,0,183,218,0,0
+18,Saturday,956,Orchards,1,183,217,0,0
+18,Saturday,968,Van Mall TC,0,183,218,0,0
+18,Saturday,957,Orchards,1,183,217,0,0
+18,Saturday,969,Van Mall TC,0,183,218,0,0
+18,Saturday,958,Orchards,1,183,217,0,0
+18,Saturday,970,Van Mall TC,0,183,218,0,0
+18,Saturday,959,Orchards,1,183,217,0,0
+18,Saturday,971,Van Mall TC,0,183,218,0,0
+18,Saturday,960,Orchards,1,183,217,0,0
+18,Saturday,972,Van Mall TC,0,183,218,0,0
+18,Saturday,961,Orchards,1,183,217,0,0
+18,Saturday,973,Van Mall TC,0,183,218,0,0
+18,Saturday,962,Orchards,1,183,217,0,0
+18,Saturday,974,Van Mall TC,0,183,218,0,0
+18,Saturday,963,Orchards,1,183,217,0,0
+18,Saturday,975,Van Mall TC,0,183,218,0,0
+19,Saturday,906,East Fourth Plain,1,184,219,0,0
+19,Saturday,918,Van Mall TC,0,184,220,0,0
+19,Saturday,907,East Fourth Plain,1,184,219,0,0
+19,Saturday,919,Van Mall TC,0,184,220,0,0
+19,Saturday,908,East Fourth Plain,1,184,219,0,0
+19,Saturday,920,Van Mall TC,0,184,220,0,0
+19,Saturday,909,East Fourth Plain,1,184,219,0,0
+19,Saturday,921,Van Mall TC,0,184,220,0,0
+19,Saturday,910,East Fourth Plain,1,184,219,0,0
+19,Saturday,922,Van Mall TC,0,184,220,0,0
+19,Saturday,911,East Fourth Plain,1,184,219,0,0
+19,Saturday,923,Van Mall TC,0,184,220,0,0
+19,Saturday,912,East Fourth Plain,1,184,219,0,0
+19,Saturday,924,Van Mall TC,0,184,220,0,0
+19,Saturday,913,East Fourth Plain,1,184,219,0,0
+19,Saturday,925,Van Mall TC,0,184,220,0,0
+19,Saturday,914,East Fourth Plain,1,184,219,0,0
+19,Saturday,926,Van Mall TC,0,184,220,0,0
+19,Saturday,915,East Fourth Plain,1,184,219,0,0
+19,Saturday,927,Van Mall TC,0,184,220,0,0
+19,Saturday,916,East Fourth Plain,1,184,219,0,0
+19,Saturday,928,Van Mall TC,0,184,220,0,0
+19,Saturday,917,East Fourth Plain,1,184,219,0,0
+19,Saturday,929,Van Mall TC,0,184,220,0,0
+20,Saturday,231,Van Mall TC,1,185,221,0,0
+20,Saturday,244,99th Street TC,0,185,222,0,0
+20,Saturday,232,Van Mall TC,1,185,221,0,0
+20,Saturday,245,99th Street TC,0,185,222,0,0
+20,Saturday,233,Van Mall TC,1,185,221,0,0
+20,Saturday,246,99th Street TC,0,185,222,0,0
+20,Saturday,234,Van Mall TC,1,185,221,0,0
+20,Saturday,247,99th Street TC,0,185,222,0,0
+20,Saturday,235,Van Mall TC,1,185,221,0,0
+20,Saturday,248,99th Street TC,0,185,222,0,0
+20,Saturday,236,Van Mall TC,1,185,221,0,0
+20,Saturday,249,99th Street TC,0,185,222,0,0
+20,Saturday,237,Van Mall TC,1,185,221,0,0
+20,Saturday,250,99th Street TC,0,185,222,0,0
+20,Saturday,238,Van Mall TC,1,185,221,0,0
+20,Saturday,251,99th Street TC,0,185,222,0,0
+20,Saturday,239,Van Mall TC,1,185,221,0,0
+20,Saturday,252,99th Street TC,0,185,222,0,0
+20,Saturday,240,Van Mall TC,1,185,221,0,0
+20,Saturday,253,99th Street TC,0,185,222,0,0
+20,Saturday,241,Van Mall TC,1,185,221,0,0
+20,Saturday,254,99th Street TC,0,185,222,0,0
+20,Saturday,242,Van Mall TC,1,185,221,0,0
+20,Saturday,255,99th Street TC,0,185,222,0,0
+20,Saturday,243,Van Mall TC,1,185,221,0,0
+21,Saturday,4601,Van Mall TC,1,186,225,0,0
+3,Saturday,2959,Battle Ground,1,186,178,0,0
+3,Saturday,2970,Van Mall TC,0,186,179,0,0
+21,Saturday,4590,Fisher's Landing TC,0,186,223,0,0
+21,Saturday,4604,Van Mall TC,1,186,225,0,0
+3,Saturday,2962,Battle Ground,1,186,178,0,0
+3,Saturday,2973,Van Mall TC,0,186,179,0,0
+21,Saturday,4593,Fisher's Landing TC,0,186,223,0,0
+21,Saturday,4607,Van Mall TC,1,186,225,0,0
+3,Saturday,2965,Battle Ground,1,186,178,0,0
+3,Saturday,2976,Van Mall TC,0,186,179,0,0
+21,Saturday,4596,Fisher's Landing TC,0,186,223,0,0
+21,Saturday,4610,Van Mall TC,1,186,225,0,0
+3,Saturday,2968,Battle Ground,1,186,178,0,0
+3,Saturday,2979,Van Mall TC,0,186,179,0,0
+21,Saturday,4599,Fisher's Landing TC,0,186,223,0,0
+21,Saturday,4613,Van Mall TC,1,186,225,0,0
+21,Saturday,4602,Van Mall TC,1,187,225,0,0
+3,Saturday,2960,Battle Ground,1,187,178,0,0
+3,Saturday,2971,Van Mall TC,0,187,179,0,0
+21,Saturday,4591,Fisher's Landing TC,0,187,223,0,0
+21,Saturday,4605,Van Mall TC,1,187,225,0,0
+3,Saturday,2963,Battle Ground,1,187,178,0,0
+3,Saturday,2974,Van Mall TC,0,187,179,0,0
+21,Saturday,4594,Fisher's Landing TC,0,187,223,0,0
+21,Saturday,4608,Van Mall TC,1,187,225,0,0
+3,Saturday,2966,Battle Ground,1,187,178,0,0
+3,Saturday,2977,Van Mall TC,0,187,179,0,0
+21,Saturday,4597,Fisher's Landing TC,0,187,223,0,0
+21,Saturday,4611,Van Mall TC,1,187,225,0,0
+3,Saturday,2969,Battle Ground,1,187,178,0,0
+3,Saturday,2980,Van Mall TC,0,187,179,0,0
+21,Saturday,4600,Fisher's Landing TC,0,187,223,0,0
+21,Saturday,4589,Fisher's Landing TC,0,188,223,0,0
+21,Saturday,4603,Van Mall TC,1,188,225,0,0
+3,Saturday,2961,Battle Ground,1,188,178,0,0
+3,Saturday,2972,Van Mall TC,0,188,179,0,0
+21,Saturday,4592,Fisher's Landing TC,0,188,223,0,0
+21,Saturday,4606,Van Mall TC,1,188,225,0,0
+3,Saturday,2964,Battle Ground,1,188,178,0,0
+3,Saturday,2975,Van Mall TC,0,188,179,0,0
+21,Saturday,4595,Fisher's Landing TC,0,188,223,0,0
+21,Saturday,4609,Van Mall TC,1,188,225,0,0
+3,Saturday,2967,Battle Ground,1,188,178,0,0
+3,Saturday,2978,Van Mall TC,0,188,179,0,0
+21,Saturday,4598,Fisher's Landing TC,0,188,223,0,0
+21,Saturday,4612,Van Mall TC,1,188,225,0,0
+3,Saturday,478,Battle Ground,1,188,178,0,0
+3,Saturday,2981,Van Mall TC,0,188,179,0,0
+22,Saturday,4634,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4647,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4635,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4648,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4636,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4649,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4637,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4650,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4638,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4651,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4639,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4652,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4640,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4653,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4641,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4654,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4642,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4655,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4643,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4656,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4644,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4657,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4645,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4658,Fisher's Landing Transit,0,189,227,0,0
+22,Saturday,4646,Addy St & Addy Loop,1,189,226,0,0
+22,Saturday,4659,Fisher's Landing Transit,0,189,227,0,0

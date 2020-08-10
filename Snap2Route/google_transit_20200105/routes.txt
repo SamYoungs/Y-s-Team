@@ -1,0 +1,30 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+2,,6,6 - Fruit Valley / Grand,,3,,000000,ffffff
+20,,78,78 - 78th Street,,3,,000000,ffffff
+21,,80,80 - VanMall / Fisher's,,3,,000000,ffffff
+7,,30,30 - Burton,,3,,000000,ffffff
+9,,32,32 - Evergreen / Andresen,,3,,000000,ffffff
+23,,105,105 - I-5 Express,,3,,000000,ffffff
+17,,71,71 - Highway 99,,3,,000000,ffffff
+24,,134,134 - Salmon Creek Express,,3,,000000,ffffff
+5,,19,19 - Salmon Creek,,3,,000000,ffffff
+8,,31,31 - Hazel Dell,,3,,000000,ffffff
+16,,67,67 - Airport Regional,,3,,000000,ffffff
+26,,164,164 - Fisher's Landing Express,,3,,000000,ffffff
+18,,72,72 - Orchards,,3,,000000,ffffff
+13,,Vine,50 - The Vine,,3,,000000,ffffff
+4,,9,9 - Felida,,3,,000000,ffffff
+27,,177,177 - Evergreen Express,,3,,000000,ffffff
+14,,60,60 - Delta Park Regional,,3,,000000,ffffff
+3,,7,7 - Battle Ground,,3,,000000,ffffff
+19,,74,74 - East Fourth Plain,,3,,000000,ffffff
+29,,199,199 - 99th Street Express,,3,,000000,ffffff
+28,,190,190 - Marquam Hill Express,,3,,000000,ffffff
+12,,47,47 - Battle Ground/Yacolt,,3,,000000,ffffff
+6,,25,25 - St. Johns,,3,,000000,ffffff
+15,,65,65 - Parkrose Regional,,3,,000000,ffffff
+25,,157,157 - Lloyd District Express,,3,,000000,ffffff
+22,,92,92 - Camas / Washougal,,3,,000000,ffffff
+11,,41,41 - SR 14,,3,,000000,ffffff
+10,,37,37 - Mill Plain / Fisher's,,3,,000000,ffffff
+1,,2,2 - Lincoln,,3,,000000,ffffff
