@@ -160,7 +160,7 @@ for row in mergedDf.head().itertuples():
     if not minpoint_deviation:
         minpoint_deviation = (row.origLatitude, row.origLongitude, abs(row.origLatitude - row.correctedLatitude), abs(row.origLongitude - row.correctedLongitude))
         minpoint_Timestamp = row.TIMESTAMP
-    if abs(abs(row.origLatitude) + abs(row.origLongitude)) - abs(abs(row.correctedLatitude + abs(row.correctedLatitude))) < (minpoint_deviation[2]+ minpoint_deviation[3]):
+    if abs(abs(row.origLatitude) + abs(row.origLongitude)) - abs(abs(row.correctedLatitude + abs(row.correctedLongiude))) < (minpoint_deviation[2]+ minpoint_deviation[3]):
         minpoint_deviation = [row.origLatitude, row.origLongitude, abs(row.origLatitude - row.correctedLatitude), abs(row.origLongitude - row.correctedLongitude)]
         minpoint_Timestamp = row.TIMESTAMP
 
@@ -168,7 +168,7 @@ for row in mergedDf.head().itertuples():
     if not maxpoint_deviation:
         maxpoint_deviation = (row.origLatitude, row.origLongitude, abs(row.origLatitude - row.correctedLatitude), abs(row.origLongitude - row.correctedLongitude))
         maxpoint_Timestamp = row.TIMESTAMP
-    if abs(abs(row.origLatitude) + abs(row.origLongitude)) - abs(abs(row.correctedLatitude + abs(row.correctedLatitude))) > (minpoint_deviation[2] + minpoint_deviation[3]):
+    if abs(abs(row.origLatitude) + abs(row.origLongitude)) - abs(abs(row.correctedLatitude + abs(row.correctedLongitude))) > (minpoint_deviation[2] + minpoint_deviation[3]):
         maxpoint_deviation = [row.origLatitude, row.origLongitude, abs(row.origLatitude - row.correctedLatitude), abs(row.origLongitude - row.correctedLongitude)]
         maxpoint_Timestamp = row.TIMESTAMP
 
