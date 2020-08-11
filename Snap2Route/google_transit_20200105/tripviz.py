@@ -27,7 +27,7 @@ import os
 
 DEBUG = False
 
-DEFAULT_TRIPID = 152570206
+DEFAULT_TRIPID = -1
 tripID = DEFAULT_TRIPID  # the trip to be analyzed. user must specify tripID on command line
 
 corr_df = pd.DataFrame()  # corrected recorded trip data
