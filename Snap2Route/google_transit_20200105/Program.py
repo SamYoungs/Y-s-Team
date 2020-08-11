@@ -201,9 +201,10 @@ maxpoint_orig_latitude = float(maxpoint_deviation[0])
 maxpoint_orig_longitude = float(maxpoint_deviation[1])
 maxpoint_deviation_latitude = float(maxpoint_deviation[2])
 maxpoint_deviation_longitude = float(maxpoint_deviation[3])
-print("Point with the largest Deviation: " + "Original Latitude, Original Longitude " + "{:.15f}".format(maxpoint_orig_latitude)  + ", " + "{:.15f}".format(maxpoint_orig_longitude))
-print("Maximum Deviated Latitude " + "{:.15f}".format(maxpoint_deviation_latitude) + "Maximum Deviated Longitude " + "{:.15f}".format(maxpoint_deviation_longitude))
+print("Point with the largest Deviation: " + "Original Latitude, Original Longitude " + "(" + "{:.15f}".format(maxpoint_orig_latitude)  + ", " + "{:.15f}".format(maxpoint_orig_longitude) + ")")
+print("Maximum Deviated Latitude " + "{:.15f}".format(maxpoint_deviation_latitude) + " Maximum Deviated Longitude " + "{:.15f}".format(maxpoint_deviation_longitude))
 print(maxpoint_Timestamp)
+
 
 
 
