@@ -27,63 +27,46 @@ import os
 
 DEBUG = False
 
-DEFAULT_TRIPID = -1
+DEFAULT_TRIPID = 152570206
 tripID = DEFAULT_TRIPID  # the trip to be analyzed. user must specify tripID on command line
 
 corr_df = pd.DataFrame()  # corrected recorded trip data
-shapes_df = pd.DataFrame() # GTFS shapes data
 trip_df = pd.DataFrame() # subset of corr_df corresponding to tripID
 
 
-DEFAULT_CORRECTIONS_FILE = "sample_99.csv"
-
+DEFAULT_CORRECTIONS_FILE = "output1.csv"
 corrections_file = DEFAULT_CORRECTIONS_FILE # file containing corrected trip data
 
-DEFAULT_SHAPES_FILE = "shapes.txt"
-shapes_file = DEFAULT_SHAPES_FILE # file containing GTFS shapes data
-
-DEFAULT_OUTPUT_HTML_FILE = "tripviz.html"
+DEFAULT_OUTPUT_HTML_FILE = "trip150193541Route37.html"
 outhtml = DEFAULT_OUTPUT_HTML_FILE # output file
 
 DEFAULT_DEVIATION_THRESHOLD = 10.0 
 deviation_theshold = DEFAULT_DEVIATION_THRESHOLD   # in meters
 
-ts_lis =[]
 olat_lis = [] 
 vehicleID = -1
 olon_lis = []
-routeID = -1
 clat_lis = []
 clon_lis = []
-dist_lis = []
-slat_lis = []
-slon_lis = []
 
 def initialize():
-	global tripID, DEBUG, outhtml, corrections_file, shapes_file
-	global sample_file, numsamples, deviation_threshold
+	global tripID, DEBUG, outhtml, corrections_file
 
 	parser = argparse.ArgumentParser()
 	parser.add_argument("-c", "--correctionsfile", default=DEFAULT_CORRECTIONS_FILE, 
 		help="file containing corrected breadcrumb coordinates")
-	parser.add_argument("-s", "--shapesfile", default=DEFAULT_SHAPES_FILE, 
-		help="gtfs data file containing geometric shapes for routes")
 	parser.add_argument("-d", "--debug", default = False, 
 		help="debugging switch", action="store_true")
 	parser.add_argument("-o", "--outhtml", default=DEFAULT_OUTPUT_HTML_FILE, 
 		help="output html file")
 	parser.add_argument("-t", "--tripID", default=DEFAULT_TRIPID,
 		help="ID of trip to be analyzed")
-	parser.add_argument("--deviation_threshold", default=DEFAULT_DEVIATION_THRESHOLD,
-		help="breadcrumb readings greater than this value (in meters) will be highlighted")
 	args = parser.parse_args()
 
 	outhtml = args.outhtml
 	DEBUG = args.debug
 	corrections_file = args.correctionsfile
-	shapes_file = args.shapesfile
 	tripID = int(args.tripID)
-	deviation_threshold = float(args.deviation_threshold)
 
 def readCSVfile(fname, parsed=[], idf=False):
 	if (DEBUG): print(f"\treading data file: {fname}")
@@ -94,37 +77,24 @@ def readCSVfile(fname, parsed=[], idf=False):
 
 # read in all of the data and compute teh shapeID if needed
 def ingest_data():
-	global shapes_df, corr_df, shapeID, trip_df
-	global ts_lis, olat_lis, vehicleID, olat_lis, olon_lis, routeID, clat_lis, clon_lis
-	global dist_lis, slat_lis, slon_lis
+	global corr_df, trip_df
+	global olat_lis, vehicleID, olat_lis, olon_lis, clat_lis, clon_lis
 	
 	try:
 		if (DEBUG): print("BEGIN ingesting data")
 		
 		corr_df = readCSVfile(corrections_file)
 		
-		shapes_df = readCSVfile(shapes_file)
-
 		trip_df = corr_df.loc[corr_df["tripID"] == tripID]
 		if (trip_df.empty):
 			print(f"ERROR: trip {tripID} not found in corrections file {corrections_file}")
 			exit(-1)
 
-		shapeID = trip_df['shapeID'].iloc[0] # assume: all shapeIDs for a given tripID identical
-		ts_lis = trip_df['timestamp'].tolist()
 		vehicleID = trip_df['vehicleID'].iloc[0] # assume: all shapeIDs for a given tripID identical
 		olat_lis = trip_df['origLatitude'].tolist()
 		olon_lis = trip_df['origLongitude'].tolist()
-		routeID = trip_df['routeID'].iloc[0] # assume: all routeIDs for a given tripID identical
 		clat_lis = trip_df['correctedLatitude'].tolist()
 		clon_lis = trip_df['correctedLongitude'].tolist()
-		dist_lis = trip_df['distance'].tolist()
-		shapes_df = shapes_df.loc[shapes_df["shape_id"] == shapeID]
-		if (shapes_df.empty):
-			print(f"ERROR: shape {shapeID} listed in {corrections_file} for trip {tripID} is not found in shapes file {shapes_file}")
-			exit(-1)
-		slat_lis = shapes_df['shape_pt_lat'].tolist()
-		slon_lis = shapes_df['shape_pt_lon'].tolist()
 
 		if (DEBUG): print("END ingesting data")
 
@@ -140,12 +110,11 @@ def ingest_data():
 # 
 def output_html():
 	global bc_df
-	import os
-	print(os.environ['MAPBOX_TOKEN'])
-	DEFAULT_MAPBOX_TOKEN = os.environ['MAPBOX_TOKEN']
+
+	DEFAULT_MAPBOX_TOKEN = " "
 	# before running this script, go to mapbox.com, create an account and get an access token
 	# then insert your token into the following line in place of DEFAULT_MAPBOX_TOKEN
-	mapbox_token = DEFAULT_MAPBOX_TOKEN
+	mapbox_token = os.environ['MAPBOX_TOKEN']
 
 	if (mapbox_token == DEFAULT_MAPBOX_TOKEN):
 		print("ERROR: mapbox_token variable is not set properly")
@@ -209,45 +178,31 @@ def output_html():
 
 	fil.write("var opolyline = L.polyline(olatlons, {color: 'red'}).addTo(mymap);\n")
 
-	# get first lat/lon pair for the corresponding shape
-	lat = str(slat_lis[0])
-	lon = str(slon_lis[0])
+	# create a marker for the first lat/lon pair for the recorded trip	
+	clat = str(clat_lis[0])
+	clon = str(clon_lis[0])	
 
-	fil.write("\t\tvar smarker = L.marker([" + lat + ',' + lon + "]).addTo(mymap);\n")
-	fil.write("\t\tsmarker.bindPopup("+'"'+ "begin PLANNED trip" + '"' + ")\n")
+	fil.write("\t\tvar cmarker = L.marker([" + clat + ',' + clon + "]).addTo(mymap);\n")
+	fil.write("\t\tcmarker.bindPopup("+'"'+ "begin CORRECTED trip" + '"' + ")\n")
 
-	# draw blue polyline for the shape (the planned trip)
-	fil.write ("\n\n\t\tvar slatlons = [\n")
+	# write all of the lat/lon pairs for the recorded trip
+	fil.write ("\n\n\t\tvar clatlons = [\n")
 
-	for i in range (len(slat_lis)):
-		lat = str(slat_lis[i])
-		lon = str(slon_lis[i])
-		fil.write("\t\t\t[" + lat + "," + lon + "],\n")
+	for i in range (len(clat_lis)):
+		clat = str(clat_lis[i])
+		clon = str(clon_lis[i])
+		fil.write("\t\t\t[" + clat + "," + clon + "],\n")
 	fil.write ("\t\t];\n")
 
-	fil.write("var spolyline = L.polyline(slatlons, {color: 'blue'}).addTo(mymap);\n")
+	fil.write("\n\n")
 
-	# create yellow line segments for all breadcrumbs that are far off the planned route
-	num_devs = 0
-	num_readings = len(dist_lis)
-	for i in range (num_readings):
-		dist = dist_lis[i]
-		if (dist > deviation_threshold):
-			olat = olat_lis[i]
-			olon = olon_lis[i]
-			clat = clat_lis[i]
-			clon = clon_lis[i]
-			num_devs += 1
-
-			fil.write(f"\tvar latlons_{i} = [[{olat}, {olon}], [{clat}, {clon}]];\n")
-			fil.write(f"\tvar deviationLine_{i} = L.polyline(latlons_{i}, {{color: 'yellow'}}).addTo(mymap);\n")
-			
+	fil.write("var cpolyline = L.polyline(clatlons, {color: 'cyan'}).addTo(mymap);\n")		
 
 	fil.write ("\n")
 
 
 	endHTML = """
-	mymap.fitBounds(opolyline.getBounds());
+	mymap.fitBounds(cpolyline.getBounds());
 
 	</script>
 
@@ -258,18 +213,14 @@ def output_html():
 	fil.write(endHTML)
 	fil.close()
 	if (DEBUG):
+		num_readings = len(olat_lis)
 		print(f"SUMMARY") 
-		print(f"\ttrip {tripID}, shape {shapeID}")
-		print(f"\ttime period for this trip: {ts_lis[0]} to {ts_lis[-1]}")
-		print(f"\tvehicle {vehicleID}, route {routeID}")
+		print(f"\ttrip {tripID}")
+		print(f"\tvehicle {vehicleID}")
 		print(f"\t{num_readings} breadcrumb readings in the recorded trip")
-		print(f"\t{len(slat_lis)} coordinates in geometric shape {shapeID}") 
 
-		devscore = ((1.0 * num_devs) / num_readings) * 100.0
-		print(f"\t{num_devs} breadcrumb readings (of {num_readings}) deviate from the planned trip by more than {deviation_threshold} meters ({devscore:.2f}%)")
-		print(f"data,{tripID},{routeID},{num_readings},{num_devs},{devscore:.2f}")
 		print(f"wrote output to file: {outhtml}")
-		print(f"open {outhtml} in web browser to visualize the deviations for trip {tripID}")
+		print(f"open {outhtml} in web browser to see results")
 
 
 initialize()
