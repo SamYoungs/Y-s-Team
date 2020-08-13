@@ -1,7 +1,7 @@
 # Y's-Team
 
 
-NOTE: Bread crumb data was too large so we had to push it as zip files
+NOTE: We removed some older commit history due to uploading api keys in the code by mistake.
 
 Link to presentation slides: https://docs.google.com/presentation/d/1ilXj6GuXVgpwLWiJLAe4iqF4aAgJMhyXNmlrqFsUI_k/edit#slide=id.p
 
